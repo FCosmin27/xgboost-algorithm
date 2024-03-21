@@ -1,0 +1,4392 @@
+{
+    "FaZe": {
+        "position": "#1",
+        "points": "975 points",
+        "players": {
+            "karrigan": {
+                "Rating": "0.92",
+                "Kills Per Round": "0.56",
+                "Headshots": "54.9%",
+                "Maps Played": "48",
+                "Deaths Per Round": "0.71",
+                "Rounds Contributed": "69.2%"
+            },
+            "rain": {
+                "Rating": "1.08",
+                "Kills Per Round": "0.67",
+                "Headshots": "64.3%",
+                "Maps Played": "48",
+                "Deaths Per Round": "0.67",
+                "Rounds Contributed": "71.3%"
+            },
+            "frozen": {
+                "Rating": "1.14",
+                "Kills Per Round": "0.70",
+                "Headshots": "53.1%",
+                "Maps Played": "44",
+                "Deaths Per Round": "0.63",
+                "Rounds Contributed": "74.9%"
+            },
+            "ropz": {
+                "Rating": "1.15",
+                "Kills Per Round": "0.74",
+                "Headshots": "55.0%",
+                "Maps Played": "48",
+                "Deaths Per Round": "0.62",
+                "Rounds Contributed": "75.5%"
+            },
+            "broky": {
+                "Rating": "1.13",
+                "Kills Per Round": "0.72",
+                "Headshots": "35.9%",
+                "Maps Played": "48",
+                "Deaths Per Round": "0.61",
+                "Rounds Contributed": "74.1%"
+            }
+        },
+        "matches": [
+            {
+                "date": "16/02/2024",
+                "team1": "FaZe",
+                "score": "2:0",
+                "team2": "Eternal Fire"
+            },
+            {
+                "date": "15/02/2024",
+                "team1": "FaZe",
+                "score": "0:2",
+                "team2": "G2"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "FaZe",
+                "score": "13:7",
+                "team2": "Falcons"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "FaZe",
+                "score": "13:6",
+                "team2": "9 Pandas"
+            },
+            {
+                "date": "11/02/2024",
+                "team1": "FaZe",
+                "score": "0:3",
+                "team2": "Spirit"
+            },
+            {
+                "date": "10/02/2024",
+                "team1": "FaZe",
+                "score": "2:0",
+                "team2": "MOUZ"
+            },
+            {
+                "date": "09/02/2024",
+                "team1": "FaZe",
+                "score": "2:0",
+                "team2": "G2"
+            },
+            {
+                "date": "06/02/2024",
+                "team1": "FaZe",
+                "score": "0:2",
+                "team2": "Spirit"
+            },
+            {
+                "date": "04/02/2024",
+                "team1": "FaZe",
+                "score": "2:1",
+                "team2": "Eternal Fire"
+            },
+            {
+                "date": "03/02/2024",
+                "team1": "FaZe",
+                "score": "2:0",
+                "team2": "Rebels"
+            },
+            {
+                "date": "27/01/2024",
+                "team1": "FaZe",
+                "score": "2:0",
+                "team2": "Liquid"
+            },
+            {
+                "date": "26/01/2024",
+                "team1": "FaZe",
+                "score": "2:1",
+                "team2": "GamerLegion"
+            },
+            {
+                "date": "25/01/2024",
+                "team1": "FaZe",
+                "score": "2:0",
+                "team2": "Spirit"
+            },
+            {
+                "date": "24/01/2024",
+                "team1": "FaZe",
+                "score": "0:2",
+                "team2": "GamerLegion"
+            },
+            {
+                "date": "17/12/2023",
+                "team1": "FaZe",
+                "score": "0:2",
+                "team2": "Vitality"
+            },
+            {
+                "date": "16/12/2023",
+                "team1": "FaZe",
+                "score": "2:0",
+                "team2": "MOUZ"
+            }
+        ],
+        "win_percentage": "72.7%"
+    },
+    "Vitality": {
+        "position": "#2",
+        "points": "759 points",
+        "players": {
+            "apEX": {
+                "Rating": "1.03",
+                "Kills Per Round": "0.62",
+                "Headshots": "46.7%",
+                "Maps Played": "36",
+                "Deaths Per Round": "0.68",
+                "Rounds Contributed": "72.1%"
+            },
+            "ZywOo": {
+                "Rating": "1.39",
+                "Kills Per Round": "0.87",
+                "Headshots": "41.8%",
+                "Maps Played": "36",
+                "Deaths Per Round": "0.55",
+                "Rounds Contributed": "77.6%"
+            },
+            "flameZ": {
+                "Rating": "1.13",
+                "Kills Per Round": "0.67",
+                "Headshots": "51.7%",
+                "Maps Played": "36",
+                "Deaths Per Round": "0.61",
+                "Rounds Contributed": "76.4%"
+            },
+            "Spinx": {
+                "Rating": "1.16",
+                "Kills Per Round": "0.72",
+                "Headshots": "55.7%",
+                "Maps Played": "36",
+                "Deaths Per Round": "0.62",
+                "Rounds Contributed": "76.3%"
+            },
+            "mezii": {
+                "Rating": "1.01",
+                "Kills Per Round": "0.57",
+                "Headshots": "61.2%",
+                "Maps Played": "36",
+                "Deaths Per Round": "0.61",
+                "Rounds Contributed": "74.0%"
+            }
+        },
+        "matches": [
+            {
+                "date": "19/02/2024",
+                "team1": "Vitality",
+                "score": "13:2",
+                "team2": "GamerLegion"
+            },
+            {
+                "date": "05/02/2024",
+                "team1": "Vitality",
+                "score": "1:2",
+                "team2": "Heroic"
+            },
+            {
+                "date": "03/02/2024",
+                "team1": "Vitality",
+                "score": "1:2",
+                "team2": "ENCE"
+            },
+            {
+                "date": "27/01/2024",
+                "team1": "Vitality",
+                "score": "2:1",
+                "team2": "Astralis"
+            },
+            {
+                "date": "26/01/2024",
+                "team1": "Vitality",
+                "score": "2:1",
+                "team2": "Falcons"
+            },
+            {
+                "date": "23/01/2024",
+                "team1": "Vitality",
+                "score": "1:2",
+                "team2": "Astralis"
+            },
+            {
+                "date": "22/01/2024",
+                "team1": "Vitality",
+                "score": "2:0",
+                "team2": "OG"
+            },
+            {
+                "date": "17/12/2023",
+                "team1": "Vitality",
+                "score": "2:0",
+                "team2": "FaZe"
+            },
+            {
+                "date": "16/12/2023",
+                "team1": "Vitality",
+                "score": "2:0",
+                "team2": "Natus Vincere"
+            },
+            {
+                "date": "14/12/2023",
+                "team1": "Vitality",
+                "score": "2:0",
+                "team2": "Cloud9"
+            },
+            {
+                "date": "13/12/2023",
+                "team1": "Vitality",
+                "score": "2:0",
+                "team2": "Natus Vincere"
+            },
+            {
+                "date": "26/11/2023",
+                "team1": "Vitality",
+                "score": "2:0",
+                "team2": "FaZe"
+            },
+            {
+                "date": "25/11/2023",
+                "team1": "Vitality",
+                "score": "2:1",
+                "team2": "Cloud9"
+            },
+            {
+                "date": "23/11/2023",
+                "team1": "Vitality",
+                "score": "2:1",
+                "team2": "Complexity"
+            },
+            {
+                "date": "22/11/2023",
+                "team1": "Vitality",
+                "score": "2:0",
+                "team2": "Heroic"
+            },
+            {
+                "date": "16/10/2023",
+                "team1": "Vitality",
+                "score": "1:2",
+                "team2": "FaZe"
+            }
+        ],
+        "win_percentage": "80.0%"
+    },
+    "Spirit": {
+        "position": "#3",
+        "points": "634 points",
+        "players": {
+            "chopper": {
+                "Rating": "1.00",
+                "Kills Per Round": "0.60",
+                "Headshots": "56.5%",
+                "Maps Played": "41",
+                "Deaths Per Round": "0.65",
+                "Rounds Contributed": "72.7%"
+            },
+            "sh1ro": {
+                "Rating": "1.21",
+                "Kills Per Round": "0.75",
+                "Headshots": "33.8%",
+                "Maps Played": "25",
+                "Deaths Per Round": "0.52",
+                "Rounds Contributed": "77.1%"
+            },
+            "magixx": {
+                "Rating": "1.09",
+                "Kills Per Round": "0.60",
+                "Headshots": "51.5%",
+                "Maps Played": "36",
+                "Deaths Per Round": "0.56",
+                "Rounds Contributed": "77.2%"
+            },
+            "zont1x": {
+                "Rating": "1.14",
+                "Kills Per Round": "0.67",
+                "Headshots": "35.0%",
+                "Maps Played": "41",
+                "Deaths Per Round": "0.63",
+                "Rounds Contributed": "76.6%"
+            },
+            "donk": {
+                "Rating": "1.49",
+                "Kills Per Round": "1.00",
+                "Headshots": "55.2%",
+                "Maps Played": "36",
+                "Deaths Per Round": "0.66",
+                "Rounds Contributed": "77.8%"
+            }
+        },
+        "matches": [
+            {
+                "date": "12:50",
+                "team1": "Spirit",
+                "score": "-:-",
+                "team2": "ENCE"
+            },
+            {
+                "date": "11/02/2024",
+                "team1": "Spirit",
+                "score": "3:0",
+                "team2": "FaZe"
+            },
+            {
+                "date": "10/02/2024",
+                "team1": "Spirit",
+                "score": "2:0",
+                "team2": "Falcons"
+            },
+            {
+                "date": "06/02/2024",
+                "team1": "Spirit",
+                "score": "2:0",
+                "team2": "FaZe"
+            },
+            {
+                "date": "04/02/2024",
+                "team1": "Spirit",
+                "score": "2:0",
+                "team2": "Complexity"
+            },
+            {
+                "date": "03/02/2024",
+                "team1": "Spirit",
+                "score": "2:1",
+                "team2": "Natus Vincere"
+            },
+            {
+                "date": "01/02/2024",
+                "team1": "Spirit",
+                "score": "2:0",
+                "team2": "TheMongolz"
+            },
+            {
+                "date": "31/01/2024",
+                "team1": "Spirit",
+                "score": "13:0",
+                "team2": "Apeks"
+            },
+            {
+                "date": "25/01/2024",
+                "team1": "Spirit",
+                "score": "0:2",
+                "team2": "FaZe"
+            },
+            {
+                "date": "24/01/2024",
+                "team1": "Spirit",
+                "score": "1:2",
+                "team2": "Liquid"
+            },
+            {
+                "date": "20/01/2024",
+                "team1": "Spirit",
+                "score": "2:0",
+                "team2": "MOUZ"
+            },
+            {
+                "date": "19/01/2024",
+                "team1": "Spirit",
+                "score": "16:14",
+                "team2": "Preasy"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "Spirit",
+                "score": "16:14",
+                "team2": "Entropiq"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "Spirit",
+                "score": "9:13",
+                "team2": "KOI"
+            },
+            {
+                "date": "10/12/2023",
+                "team1": "Spirit",
+                "score": "3:2",
+                "team2": "Virtus.pro"
+            },
+            {
+                "date": "09/12/2023",
+                "team1": "Spirit",
+                "score": "2:0",
+                "team2": "MIBR"
+            },
+            {
+                "date": "08/12/2023",
+                "team1": "Spirit",
+                "score": "2:0",
+                "team2": "FURIA"
+            }
+        ],
+        "win_percentage": "71.4%"
+    },
+    "MOUZ": {
+        "position": "#4",
+        "points": "506 points",
+        "players": {
+            "Brollan": {
+                "Rating": "1.13",
+                "Kills Per Round": "0.68",
+                "Headshots": "57.0%",
+                "Maps Played": "28",
+                "Deaths Per Round": "0.67",
+                "Rounds Contributed": "72.1%"
+            },
+            "siuhy": {
+                "Rating": "0.95",
+                "Kills Per Round": "0.62",
+                "Headshots": "49.7%",
+                "Maps Played": "34",
+                "Deaths Per Round": "0.70",
+                "Rounds Contributed": "69.0%"
+            },
+            "torzsi": {
+                "Rating": "1.11",
+                "Kills Per Round": "0.69",
+                "Headshots": "34.9%",
+                "Maps Played": "34",
+                "Deaths Per Round": "0.59",
+                "Rounds Contributed": "73.9%"
+            },
+            "Jimpphat": {
+                "Rating": "1.08",
+                "Kills Per Round": "0.69",
+                "Headshots": "52.9%",
+                "Maps Played": "34",
+                "Deaths Per Round": "0.61",
+                "Rounds Contributed": "73.5%"
+            },
+            "xertioN": {
+                "Rating": "1.08",
+                "Kills Per Round": "0.69",
+                "Headshots": "51.0%",
+                "Maps Played": "34",
+                "Deaths Per Round": "0.69",
+                "Rounds Contributed": "71.3%"
+            }
+        },
+        "matches": [
+            {
+                "date": "12:00",
+                "team1": "MOUZ",
+                "score": "-:-",
+                "team2": "Guild Eagles"
+            },
+            {
+                "date": "10/02/2024",
+                "team1": "MOUZ",
+                "score": "0:2",
+                "team2": "FaZe"
+            },
+            {
+                "date": "06/02/2024",
+                "team1": "MOUZ",
+                "score": "2:0",
+                "team2": "ENCE"
+            },
+            {
+                "date": "05/02/2024",
+                "team1": "MOUZ",
+                "score": "2:0",
+                "team2": "GamerLegion"
+            },
+            {
+                "date": "04/02/2024",
+                "team1": "MOUZ",
+                "score": "2:1",
+                "team2": "Cloud9"
+            },
+            {
+                "date": "20/01/2024",
+                "team1": "MOUZ",
+                "score": "2:1",
+                "team2": "Preasy"
+            },
+            {
+                "date": "20/01/2024",
+                "team1": "MOUZ",
+                "score": "0:2",
+                "team2": "Spirit"
+            },
+            {
+                "date": "19/01/2024",
+                "team1": "MOUZ",
+                "score": "1:2",
+                "team2": "Eternal Fire"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "MOUZ",
+                "score": "16:12",
+                "team2": "Heroic"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "MOUZ",
+                "score": "13:8",
+                "team2": "EYEBALLERS"
+            },
+            {
+                "date": "16/12/2023",
+                "team1": "MOUZ",
+                "score": "0:2",
+                "team2": "FaZe"
+            },
+            {
+                "date": "15/12/2023",
+                "team1": "MOUZ",
+                "score": "2:0",
+                "team2": "Cloud9"
+            },
+            {
+                "date": "14/12/2023",
+                "team1": "MOUZ",
+                "score": "2:0",
+                "team2": "Heroic"
+            },
+            {
+                "date": "13/12/2023",
+                "team1": "MOUZ",
+                "score": "0:2",
+                "team2": "G2"
+            },
+            {
+                "date": "01/12/2023",
+                "team1": "MOUZ",
+                "score": "0:2",
+                "team2": "FURIA"
+            },
+            {
+                "date": "30/11/2023",
+                "team1": "MOUZ",
+                "score": "2:1",
+                "team2": "Complexity"
+            },
+            {
+                "date": "30/11/2023",
+                "team1": "MOUZ",
+                "score": "16:19",
+                "team2": "Apeks"
+            }
+        ],
+        "win_percentage": "56.2%"
+    },
+    "G2": {
+        "position": "#5",
+        "points": "445 points",
+        "players": {
+            "NiKo": {
+                "Rating": "1.17",
+                "Kills Per Round": "0.74",
+                "Headshots": "58.2%",
+                "Maps Played": "46",
+                "Deaths Per Round": "0.65",
+                "Rounds Contributed": "73.3%"
+            },
+            "huNter-": {
+                "Rating": "1.00",
+                "Kills Per Round": "0.63",
+                "Headshots": "48.3%",
+                "Maps Played": "46",
+                "Deaths Per Round": "0.67",
+                "Rounds Contributed": "69.0%"
+            },
+            "nexa": {
+                "Rating": "0.97",
+                "Kills Per Round": "0.58",
+                "Headshots": "53.1%",
+                "Maps Played": "46",
+                "Deaths Per Round": "0.65",
+                "Rounds Contributed": "73.0%"
+            },
+            "HooXi": {
+                "Rating": "0.90",
+                "Kills Per Round": "0.54",
+                "Headshots": "54.9%",
+                "Maps Played": "46",
+                "Deaths Per Round": "0.70",
+                "Rounds Contributed": "69.2%"
+            },
+            "m0NESY": {
+                "Rating": "1.28",
+                "Kills Per Round": "0.80",
+                "Headshots": "37.6%",
+                "Maps Played": "46",
+                "Deaths Per Round": "0.59",
+                "Rounds Contributed": "75.8%"
+            }
+        },
+        "matches": [
+            {
+                "date": "15/02/2024",
+                "team1": "G2",
+                "score": "2:0",
+                "team2": "FaZe"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "G2",
+                "score": "16:13",
+                "team2": "Eternal Fire"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "G2",
+                "score": "13:3",
+                "team2": "Into the Breach"
+            },
+            {
+                "date": "09/02/2024",
+                "team1": "G2",
+                "score": "0:2",
+                "team2": "FaZe"
+            },
+            {
+                "date": "06/02/2024",
+                "team1": "G2",
+                "score": "2:0",
+                "team2": "Heroic"
+            },
+            {
+                "date": "06/02/2024",
+                "team1": "G2",
+                "score": "2:1",
+                "team2": "Monte"
+            },
+            {
+                "date": "05/02/2024",
+                "team1": "G2",
+                "score": "0:2",
+                "team2": "ENCE"
+            },
+            {
+                "date": "03/02/2024",
+                "team1": "G2",
+                "score": "2:1",
+                "team2": "Heroic"
+            },
+            {
+                "date": "28/01/2024",
+                "team1": "G2",
+                "score": "2:0",
+                "team2": "Liquid"
+            },
+            {
+                "date": "27/01/2024",
+                "team1": "G2",
+                "score": "0:2",
+                "team2": "Natus Vincere"
+            },
+            {
+                "date": "26/01/2024",
+                "team1": "G2",
+                "score": "2:0",
+                "team2": "Ninjas in Pyjamas"
+            },
+            {
+                "date": "23/01/2024",
+                "team1": "G2",
+                "score": "1:2",
+                "team2": "Natus Vincere"
+            },
+            {
+                "date": "22/01/2024",
+                "team1": "G2",
+                "score": "2:0",
+                "team2": "Ninjas in Pyjamas"
+            },
+            {
+                "date": "15/12/2023",
+                "team1": "G2",
+                "score": "1:2",
+                "team2": "Natus Vincere"
+            },
+            {
+                "date": "14/12/2023",
+                "team1": "G2",
+                "score": "1:2",
+                "team2": "FaZe"
+            },
+            {
+                "date": "13/12/2023",
+                "team1": "G2",
+                "score": "2:0",
+                "team2": "MOUZ"
+            }
+        ],
+        "win_percentage": "60.0%"
+    },
+    "Natus Vincere": {
+        "position": "#6",
+        "points": "431 points",
+        "players": {
+            "Aleksib": {
+                "Rating": "0.95",
+                "Kills Per Round": "0.56",
+                "Headshots": "43.9%",
+                "Maps Played": "47",
+                "Deaths Per Round": "0.66",
+                "Rounds Contributed": "73.4%"
+            },
+            "iM": {
+                "Rating": "1.11",
+                "Kills Per Round": "0.70",
+                "Headshots": "46.1%",
+                "Maps Played": "47",
+                "Deaths Per Round": "0.66",
+                "Rounds Contributed": "71.0%"
+            },
+            "b1t": {
+                "Rating": "1.11",
+                "Kills Per Round": "0.68",
+                "Headshots": "64.6%",
+                "Maps Played": "47",
+                "Deaths Per Round": "0.64",
+                "Rounds Contributed": "73.9%"
+            },
+            "jL": {
+                "Rating": "1.10",
+                "Kills Per Round": "0.67",
+                "Headshots": "49.7%",
+                "Maps Played": "47",
+                "Deaths Per Round": "0.65",
+                "Rounds Contributed": "73.5%"
+            },
+            "w0nderful": {
+                "Rating": "1.16",
+                "Kills Per Round": "0.73",
+                "Headshots": "38.6%",
+                "Maps Played": "47",
+                "Deaths Per Round": "0.56",
+                "Rounds Contributed": "75.8%"
+            }
+        },
+        "matches": [
+            {
+                "date": "16/02/2024",
+                "team1": "Natus Vincere",
+                "score": "2:1",
+                "team2": "BetBoom"
+            },
+            {
+                "date": "15/02/2024",
+                "team1": "Natus Vincere",
+                "score": "0:2",
+                "team2": "Virtus.pro"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "Natus Vincere",
+                "score": "13:6",
+                "team2": "Enterprise"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "Natus Vincere",
+                "score": "13:8",
+                "team2": "KOI"
+            },
+            {
+                "date": "06/02/2024",
+                "team1": "Natus Vincere",
+                "score": "0:2",
+                "team2": "Falcons"
+            },
+            {
+                "date": "05/02/2024",
+                "team1": "Natus Vincere",
+                "score": "2:1",
+                "team2": "Eternal Fire"
+            },
+            {
+                "date": "04/02/2024",
+                "team1": "Natus Vincere",
+                "score": "2:1",
+                "team2": "Apeks"
+            },
+            {
+                "date": "03/02/2024",
+                "team1": "Natus Vincere",
+                "score": "1:2",
+                "team2": "Spirit"
+            },
+            {
+                "date": "27/01/2024",
+                "team1": "Natus Vincere",
+                "score": "2:0",
+                "team2": "G2"
+            },
+            {
+                "date": "23/01/2024",
+                "team1": "Natus Vincere",
+                "score": "2:1",
+                "team2": "G2"
+            },
+            {
+                "date": "22/01/2024",
+                "team1": "Natus Vincere",
+                "score": "2:0",
+                "team2": "Complexity"
+            },
+            {
+                "date": "19/01/2024",
+                "team1": "Natus Vincere",
+                "score": "2:0",
+                "team2": "Virtus.pro"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "Natus Vincere",
+                "score": "13:6",
+                "team2": "9 Pandas"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "Natus Vincere",
+                "score": "13:6",
+                "team2": "ECSTATIC"
+            },
+            {
+                "date": "16/12/2023",
+                "team1": "Natus Vincere",
+                "score": "0:2",
+                "team2": "Vitality"
+            },
+            {
+                "date": "15/12/2023",
+                "team1": "Natus Vincere",
+                "score": "2:1",
+                "team2": "G2"
+            }
+        ],
+        "win_percentage": "66.7%"
+    },
+    "Falcons": {
+        "position": "#7",
+        "points": "399 points",
+        "players": {
+            "Snappi": {
+                "Rating": "0.85",
+                "Kills Per Round": "0.52",
+                "Headshots": "53.5%",
+                "Maps Played": "28",
+                "Deaths Per Round": "0.70",
+                "Rounds Contributed": "66.6%"
+            },
+            "Magisk": {
+                "Rating": "1.10",
+                "Kills Per Round": "0.68",
+                "Headshots": "52.4%",
+                "Maps Played": "28",
+                "Deaths Per Round": "0.65",
+                "Rounds Contributed": "73.1%"
+            },
+            "Maden": {
+                "Rating": "1.06",
+                "Kills Per Round": "0.71",
+                "Headshots": "51.9%",
+                "Maps Played": "42",
+                "Deaths Per Round": "0.69",
+                "Rounds Contributed": "70.6%"
+            },
+            "SunPayus": {
+                "Rating": "1.11",
+                "Kills Per Round": "0.70",
+                "Headshots": "35.2%",
+                "Maps Played": "42",
+                "Deaths Per Round": "0.60",
+                "Rounds Contributed": "74.4%"
+            },
+            "BOROS": {
+                "Rating": "1.05",
+                "Kills Per Round": "0.71",
+                "Headshots": "61.5%",
+                "Maps Played": "28",
+                "Deaths Per Round": "0.71",
+                "Rounds Contributed": "69.7%"
+            }
+        },
+        "matches": [
+            {
+                "date": "16/02/2024",
+                "team1": "Falcons",
+                "score": "1:2",
+                "team2": "AMKAL"
+            },
+            {
+                "date": "15/02/2024",
+                "team1": "Falcons",
+                "score": "5:13",
+                "team2": "Eternal Fire"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "Falcons",
+                "score": "7:13",
+                "team2": "FaZe"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "Falcons",
+                "score": "13:8",
+                "team2": "3DMAX"
+            },
+            {
+                "date": "10/02/2024",
+                "team1": "Falcons",
+                "score": "0:2",
+                "team2": "Spirit"
+            },
+            {
+                "date": "09/02/2024",
+                "team1": "Falcons",
+                "score": "2:1",
+                "team2": "ENCE"
+            },
+            {
+                "date": "06/02/2024",
+                "team1": "Falcons",
+                "score": "2:0",
+                "team2": "Natus Vincere"
+            },
+            {
+                "date": "05/02/2024",
+                "team1": "Falcons",
+                "score": "2:1",
+                "team2": "Complexity"
+            },
+            {
+                "date": "04/02/2024",
+                "team1": "Falcons",
+                "score": "2:1",
+                "team2": "Rebels"
+            },
+            {
+                "date": "03/02/2024",
+                "team1": "Falcons",
+                "score": "0:2",
+                "team2": "Eternal Fire"
+            },
+            {
+                "date": "26/01/2024",
+                "team1": "Falcons",
+                "score": "1:2",
+                "team2": "Vitality"
+            },
+            {
+                "date": "23/01/2024",
+                "team1": "Falcons",
+                "score": "2:0",
+                "team2": "OG"
+            },
+            {
+                "date": "22/01/2024",
+                "team1": "Falcons",
+                "score": "0:2",
+                "team2": "Astralis"
+            },
+            {
+                "date": "27/10/2023",
+                "team1": "Falcons",
+                "score": "1:2",
+                "team2": "Monte"
+            },
+            {
+                "date": "26/10/2023",
+                "team1": "Falcons",
+                "score": "0:2",
+                "team2": "Looking4Org"
+            },
+            {
+                "date": "25/10/2023",
+                "team1": "Falcons",
+                "score": "2:1",
+                "team2": "BetBoom"
+            }
+        ],
+        "win_percentage": "46.2%"
+    },
+    "Virtus.pro": {
+        "position": "#8",
+        "points": "352 points",
+        "players": {
+            "mir": {
+                "Rating": "1.01",
+                "Kills Per Round": "0.60",
+                "Headshots": "50.3%",
+                "Maps Played": "49",
+                "Deaths Per Round": "0.63",
+                "Rounds Contributed": "72.6%"
+            },
+            "FL1T": {
+                "Rating": "1.21",
+                "Kills Per Round": "0.71",
+                "Headshots": "47.7%",
+                "Maps Played": "49",
+                "Deaths Per Round": "0.60",
+                "Rounds Contributed": "75.5%"
+            },
+            "Jame": {
+                "Rating": "1.16",
+                "Kills Per Round": "0.67",
+                "Headshots": "34.2%",
+                "Maps Played": "49",
+                "Deaths Per Round": "0.50",
+                "Rounds Contributed": "76.7%"
+            },
+            "n0rb3r7": {
+                "Rating": "1.13",
+                "Kills Per Round": "0.67",
+                "Headshots": "49.6%",
+                "Maps Played": "49",
+                "Deaths Per Round": "0.64",
+                "Rounds Contributed": "74.8%"
+            },
+            "fame": {
+                "Rating": "1.15",
+                "Kills Per Round": "0.70",
+                "Headshots": "60.5%",
+                "Maps Played": "49",
+                "Deaths Per Round": "0.61",
+                "Rounds Contributed": "75.9%"
+            }
+        },
+        "matches": [
+            {
+                "date": "15/02/2024",
+                "team1": "Virtus.pro",
+                "score": "2:0",
+                "team2": "Natus Vincere"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "Virtus.pro",
+                "score": "13:3",
+                "team2": "fnatic"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "Virtus.pro",
+                "score": "13:6",
+                "team2": "SAW"
+            },
+            {
+                "date": "02/02/2024",
+                "team1": "Virtus.pro",
+                "score": "1:2",
+                "team2": "Cloud9"
+            },
+            {
+                "date": "01/02/2024",
+                "team1": "Virtus.pro",
+                "score": "1:2",
+                "team2": "GamerLegion"
+            },
+            {
+                "date": "31/01/2024",
+                "team1": "Virtus.pro",
+                "score": "13:4",
+                "team2": "Rooster"
+            },
+            {
+                "date": "27/01/2024",
+                "team1": "Virtus.pro",
+                "score": "2:0",
+                "team2": "BIG"
+            },
+            {
+                "date": "25/01/2024",
+                "team1": "Virtus.pro",
+                "score": "2:1",
+                "team2": "Cloud9"
+            },
+            {
+                "date": "24/01/2024",
+                "team1": "Virtus.pro",
+                "score": "2:0",
+                "team2": "BIG"
+            },
+            {
+                "date": "20/01/2024",
+                "team1": "Virtus.pro",
+                "score": "2:0",
+                "team2": "fnatic"
+            },
+            {
+                "date": "19/01/2024",
+                "team1": "Virtus.pro",
+                "score": "0:2",
+                "team2": "Natus Vincere"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "Virtus.pro",
+                "score": "13:8",
+                "team2": "SAW"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "Virtus.pro",
+                "score": "13:9",
+                "team2": "SINNERS"
+            },
+            {
+                "date": "17/12/2023",
+                "team1": "Virtus.pro",
+                "score": "2:0",
+                "team2": "Apeks"
+            },
+            {
+                "date": "17/12/2023",
+                "team1": "Virtus.pro",
+                "score": "2:0",
+                "team2": "TheMongolz"
+            },
+            {
+                "date": "15/12/2023",
+                "team1": "Virtus.pro",
+                "score": "13:6",
+                "team2": "Monte"
+            }
+        ],
+        "win_percentage": "76.0%"
+    },
+    "Complexity": {
+        "position": "#9",
+        "points": "267 points",
+        "players": {
+            "EliGE": {
+                "Rating": "1.23",
+                "Kills Per Round": "0.79",
+                "Headshots": "54.8%",
+                "Maps Played": "36",
+                "Deaths Per Round": "0.66",
+                "Rounds Contributed": "74.0%"
+            },
+            "JT": {
+                "Rating": "0.98",
+                "Kills Per Round": "0.61",
+                "Headshots": "53.0%",
+                "Maps Played": "36",
+                "Deaths Per Round": "0.67",
+                "Rounds Contributed": "71.1%"
+            },
+            "floppy": {
+                "Rating": "1.06",
+                "Kills Per Round": "0.63",
+                "Headshots": "50.2%",
+                "Maps Played": "36",
+                "Deaths Per Round": "0.64",
+                "Rounds Contributed": "73.8%"
+            },
+            "hallzerk": {
+                "Rating": "1.06",
+                "Kills Per Round": "0.66",
+                "Headshots": "44.0%",
+                "Maps Played": "36",
+                "Deaths Per Round": "0.60",
+                "Rounds Contributed": "72.9%"
+            },
+            "Grim": {
+                "Rating": "1.04",
+                "Kills Per Round": "0.67",
+                "Headshots": "47.3%",
+                "Maps Played": "36",
+                "Deaths Per Round": "0.69",
+                "Rounds Contributed": "72.3%"
+            }
+        },
+        "matches": [
+            {
+                "date": "05/02/2024",
+                "team1": "Complexity",
+                "score": "1:2",
+                "team2": "Falcons"
+            },
+            {
+                "date": "04/02/2024",
+                "team1": "Complexity",
+                "score": "0:2",
+                "team2": "Spirit"
+            },
+            {
+                "date": "03/02/2024",
+                "team1": "Complexity",
+                "score": "2:0",
+                "team2": "Apeks"
+            },
+            {
+                "date": "23/01/2024",
+                "team1": "Complexity",
+                "score": "0:2",
+                "team2": "Ninjas in Pyjamas"
+            },
+            {
+                "date": "22/01/2024",
+                "team1": "Complexity",
+                "score": "0:2",
+                "team2": "Natus Vincere"
+            },
+            {
+                "date": "14/01/2024",
+                "team1": "Complexity",
+                "score": "2:0",
+                "team2": "Party Astronauts"
+            },
+            {
+                "date": "13/01/2024",
+                "team1": "Complexity",
+                "score": "25:21",
+                "team2": "NRG"
+            },
+            {
+                "date": "13/01/2024",
+                "team1": "Complexity",
+                "score": "13:1",
+                "team2": "FLUFFY AIMERS"
+            },
+            {
+                "date": "16/12/2023",
+                "team1": "Complexity",
+                "score": "0:2",
+                "team2": "TheMongolz"
+            },
+            {
+                "date": "16/12/2023",
+                "team1": "Complexity",
+                "score": "2:1",
+                "team2": "GamerLegion"
+            },
+            {
+                "date": "15/12/2023",
+                "team1": "Complexity",
+                "score": "14:16",
+                "team2": "TheMongolz"
+            },
+            {
+                "date": "30/11/2023",
+                "team1": "Complexity",
+                "score": "1:2",
+                "team2": "MOUZ"
+            },
+            {
+                "date": "30/11/2023",
+                "team1": "Complexity",
+                "score": "8:13",
+                "team2": "FURIA"
+            },
+            {
+                "date": "25/11/2023",
+                "team1": "Complexity",
+                "score": "1:2",
+                "team2": "FaZe"
+            },
+            {
+                "date": "24/11/2023",
+                "team1": "Complexity",
+                "score": "2:1",
+                "team2": "Natus Vincere"
+            },
+            {
+                "date": "23/11/2023",
+                "team1": "Complexity",
+                "score": "1:2",
+                "team2": "Vitality"
+            }
+        ],
+        "win_percentage": "41.2%"
+    },
+    "Monte": {
+        "position": "#10",
+        "points": "263 points",
+        "players": {
+            "sdy": {
+                "Rating": "1.20",
+                "Kills Per Round": "0.77",
+                "Headshots": "51.6%",
+                "Maps Played": "29",
+                "Deaths Per Round": "0.63",
+                "Rounds Contributed": "74.3%"
+            },
+            "br0": {
+                "Rating": "1.06",
+                "Kills Per Round": "0.66",
+                "Headshots": "60.8%",
+                "Maps Played": "29",
+                "Deaths Per Round": "0.66",
+                "Rounds Contributed": "72.7%"
+            },
+            "Woro2k": {
+                "Rating": "1.14",
+                "Kills Per Round": "0.74",
+                "Headshots": "36.2%",
+                "Maps Played": "29",
+                "Deaths Per Round": "0.65",
+                "Rounds Contributed": "70.7%"
+            },
+            "DemQQ": {
+                "Rating": "1.12",
+                "Kills Per Round": "0.70",
+                "Headshots": "58.5%",
+                "Maps Played": "29",
+                "Deaths Per Round": "0.64",
+                "Rounds Contributed": "75.2%"
+            },
+            "kRaSnaL": {
+                "Rating": "1.02",
+                "Kills Per Round": "0.62",
+                "Headshots": "51.3%",
+                "Maps Played": "29",
+                "Deaths Per Round": "0.68",
+                "Rounds Contributed": "72.5%"
+            }
+        },
+        "matches": [
+            {
+                "date": "13:10",
+                "team1": "Monte",
+                "score": "-:-",
+                "team2": "ECSTATIC"
+            },
+            {
+                "date": "18/02/2024",
+                "team1": "Monte",
+                "score": "2:1",
+                "team2": "Aurora"
+            },
+            {
+                "date": "18/02/2024",
+                "team1": "Monte",
+                "score": "2:1",
+                "team2": "SINNERS"
+            },
+            {
+                "date": "17/02/2024",
+                "team1": "Monte",
+                "score": "13:6",
+                "team2": "Aurora"
+            },
+            {
+                "date": "17/02/2024",
+                "team1": "Monte",
+                "score": "13:11",
+                "team2": "The Chosen Few"
+            },
+            {
+                "date": "06/02/2024",
+                "team1": "Monte",
+                "score": "1:2",
+                "team2": "G2"
+            },
+            {
+                "date": "05/02/2024",
+                "team1": "Monte",
+                "score": "2:0",
+                "team2": "Cloud9"
+            },
+            {
+                "date": "04/02/2024",
+                "team1": "Monte",
+                "score": "0:2",
+                "team2": "GamerLegion"
+            },
+            {
+                "date": "17/12/2023",
+                "team1": "Monte",
+                "score": "1:2",
+                "team2": "Apeks"
+            },
+            {
+                "date": "16/12/2023",
+                "team1": "Monte",
+                "score": "2:0",
+                "team2": "BESTIA"
+            },
+            {
+                "date": "15/12/2023",
+                "team1": "Monte",
+                "score": "6:13",
+                "team2": "Virtus.pro"
+            },
+            {
+                "date": "15/12/2023",
+                "team1": "Monte",
+                "score": "13:8",
+                "team2": "BESTIA"
+            },
+            {
+                "date": "26/11/2023",
+                "team1": "Monte",
+                "score": "2:0",
+                "team2": "Eternal Fire"
+            },
+            {
+                "date": "26/11/2023",
+                "team1": "Monte",
+                "score": "2:1",
+                "team2": "Virtus.pro"
+            },
+            {
+                "date": "24/11/2023",
+                "team1": "Monte",
+                "score": "13:8",
+                "team2": "Nouns"
+            },
+            {
+                "date": "24/11/2023",
+                "team1": "Monte",
+                "score": "13:5",
+                "team2": "TYLOO"
+            },
+            {
+                "date": "08/11/2023",
+                "team1": "Monte",
+                "score": "1:2",
+                "team2": "SINNERS"
+            }
+        ],
+        "win_percentage": "73.3%"
+    },
+    "Cloud9": {
+        "position": "#11",
+        "points": "263 points",
+        "players": {
+            "HObbit": {
+                "Rating": "1.04",
+                "Kills Per Round": "0.67",
+                "Headshots": "47.0%",
+                "Maps Played": "47",
+                "Deaths Per Round": "0.68",
+                "Rounds Contributed": "71.3%"
+            },
+            "electroNic": {
+                "Rating": "1.19",
+                "Kills Per Round": "0.76",
+                "Headshots": "49.2%",
+                "Maps Played": "47",
+                "Deaths Per Round": "0.68",
+                "Rounds Contributed": "75.8%"
+            },
+            "Boombl4": {
+                "Rating": "1.00",
+                "Kills Per Round": "0.60",
+                "Headshots": "35.7%",
+                "Maps Played": "47",
+                "Deaths Per Round": "0.68",
+                "Rounds Contributed": "71.7%"
+            },
+            "Ax1Le": {
+                "Rating": "1.06",
+                "Kills Per Round": "0.65",
+                "Headshots": "52.5%",
+                "Maps Played": "47",
+                "Deaths Per Round": "0.69",
+                "Rounds Contributed": "73.5%"
+            },
+            "Perfecto": {
+                "Rating": "1.08",
+                "Kills Per Round": "0.67",
+                "Headshots": "49.0%",
+                "Maps Played": "47",
+                "Deaths Per Round": "0.60",
+                "Rounds Contributed": "76.5%"
+            }
+        },
+        "matches": [
+            {
+                "date": "14:00",
+                "team1": "Cloud9",
+                "score": "-:-",
+                "team2": "PERA"
+            },
+            {
+                "date": "05/02/2024",
+                "team1": "Cloud9",
+                "score": "0:2",
+                "team2": "Monte"
+            },
+            {
+                "date": "04/02/2024",
+                "team1": "Cloud9",
+                "score": "1:2",
+                "team2": "MOUZ"
+            },
+            {
+                "date": "02/02/2024",
+                "team1": "Cloud9",
+                "score": "2:1",
+                "team2": "Virtus.pro"
+            },
+            {
+                "date": "01/02/2024",
+                "team1": "Cloud9",
+                "score": "2:1",
+                "team2": "BetBoom"
+            },
+            {
+                "date": "31/01/2024",
+                "team1": "Cloud9",
+                "score": "10:13",
+                "team2": "Rebels"
+            },
+            {
+                "date": "26/01/2024",
+                "team1": "Cloud9",
+                "score": "0:2",
+                "team2": "BIG"
+            },
+            {
+                "date": "25/01/2024",
+                "team1": "Cloud9",
+                "score": "1:2",
+                "team2": "Virtus.pro"
+            },
+            {
+                "date": "24/01/2024",
+                "team1": "Cloud9",
+                "score": "2:0",
+                "team2": "Heroic"
+            },
+            {
+                "date": "19/01/2024",
+                "team1": "Cloud9",
+                "score": "2:0",
+                "team2": "BetBoom"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "Cloud9",
+                "score": "13:10",
+                "team2": "3DMAX"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "Cloud9",
+                "score": "13:5",
+                "team2": "OG"
+            },
+            {
+                "date": "15/12/2023",
+                "team1": "Cloud9",
+                "score": "0:2",
+                "team2": "MOUZ"
+            },
+            {
+                "date": "14/12/2023",
+                "team1": "Cloud9",
+                "score": "0:2",
+                "team2": "Vitality"
+            },
+            {
+                "date": "13/12/2023",
+                "team1": "Cloud9",
+                "score": "2:0",
+                "team2": "ENCE"
+            },
+            {
+                "date": "08/12/2023",
+                "team1": "Cloud9",
+                "score": "0:2",
+                "team2": "BetBoom"
+            },
+            {
+                "date": "07/12/2023",
+                "team1": "Cloud9",
+                "score": "1:2",
+                "team2": "MIBR"
+            }
+        ],
+        "win_percentage": "47.6%"
+    },
+    "Apeks": {
+        "position": "#12",
+        "points": "224 points",
+        "players": {
+            "STYKO": {
+                "Rating": "1.02",
+                "Kills Per Round": "0.66",
+                "Headshots": "61.9%",
+                "Maps Played": "19",
+                "Deaths Per Round": "0.67",
+                "Rounds Contributed": "70.7%"
+            },
+            "jkaem": {
+                "Rating": "1.08",
+                "Kills Per Round": "0.67",
+                "Headshots": "59.7%",
+                "Maps Played": "46",
+                "Deaths Per Round": "0.71",
+                "Rounds Contributed": "69.0%"
+            },
+            "nawwk": {
+                "Rating": "1.14",
+                "Kills Per Round": "0.72",
+                "Headshots": "42.1%",
+                "Maps Played": "46",
+                "Deaths Per Round": "0.54",
+                "Rounds Contributed": "74.1%"
+            },
+            "sense": {
+                "Rating": "0.90",
+                "Kills Per Round": "0.54",
+                "Headshots": "46.8%",
+                "Maps Played": "46",
+                "Deaths Per Round": "0.68",
+                "Rounds Contributed": "67.8%"
+            },
+            "CacaNito": {
+                "Rating": "1.00",
+                "Kills Per Round": "0.64",
+                "Headshots": "51.8%",
+                "Maps Played": "46",
+                "Deaths Per Round": "0.69",
+                "Rounds Contributed": "68.6%"
+            }
+        },
+        "matches": [
+            {
+                "date": "14:00",
+                "team1": "Apeks",
+                "score": "-:-",
+                "team2": "OG"
+            },
+            {
+                "date": "11/02/2024",
+                "team1": "Apeks",
+                "score": "1:2",
+                "team2": "Metizport"
+            },
+            {
+                "date": "11/02/2024",
+                "team1": "Apeks",
+                "score": "2:0",
+                "team2": "3DMAX"
+            },
+            {
+                "date": "10/02/2024",
+                "team1": "Apeks",
+                "score": "13:8",
+                "team2": "Metizport"
+            },
+            {
+                "date": "10/02/2024",
+                "team1": "Apeks",
+                "score": "13:2",
+                "team2": "ex-Anonymo"
+            },
+            {
+                "date": "04/02/2024",
+                "team1": "Apeks",
+                "score": "1:2",
+                "team2": "Natus Vincere"
+            },
+            {
+                "date": "03/02/2024",
+                "team1": "Apeks",
+                "score": "0:2",
+                "team2": "Complexity"
+            },
+            {
+                "date": "02/02/2024",
+                "team1": "Apeks",
+                "score": "2:1",
+                "team2": "BIG"
+            },
+            {
+                "date": "01/02/2024",
+                "team1": "Apeks",
+                "score": "2:1",
+                "team2": "FURIA"
+            },
+            {
+                "date": "31/01/2024",
+                "team1": "Apeks",
+                "score": "0:13",
+                "team2": "Spirit"
+            },
+            {
+                "date": "17/12/2023",
+                "team1": "Apeks",
+                "score": "0:2",
+                "team2": "Virtus.pro"
+            },
+            {
+                "date": "17/12/2023",
+                "team1": "Apeks",
+                "score": "2:1",
+                "team2": "Monte"
+            },
+            {
+                "date": "16/12/2023",
+                "team1": "Apeks",
+                "score": "13:6",
+                "team2": "TheMongolz"
+            },
+            {
+                "date": "15/12/2023",
+                "team1": "Apeks",
+                "score": "13:11",
+                "team2": "GamerLegion"
+            },
+            {
+                "date": "08/12/2023",
+                "team1": "Apeks",
+                "score": "1:2",
+                "team2": "FORZE"
+            },
+            {
+                "date": "07/12/2023",
+                "team1": "Apeks",
+                "score": "2:0",
+                "team2": "EYEBALLERS"
+            },
+            {
+                "date": "06/12/2023",
+                "team1": "Apeks",
+                "score": "0:2",
+                "team2": "3DMAX"
+            }
+        ],
+        "win_percentage": "59.1%"
+    },
+    "ENCE": {
+        "position": "#13",
+        "points": "220 points",
+        "players": {
+            "gla1ve": {
+                "Rating": "0.99",
+                "Kills Per Round": "0.59",
+                "Headshots": "53.6%",
+                "Maps Played": "30",
+                "Deaths Per Round": "0.64",
+                "Rounds Contributed": "71.8%"
+            },
+            "Goofy": {
+                "Rating": "1.03",
+                "Kills Per Round": "0.63",
+                "Headshots": "41.0%",
+                "Maps Played": "39",
+                "Deaths Per Round": "0.69",
+                "Rounds Contributed": "74.1%"
+            },
+            "dycha": {
+                "Rating": "0.99",
+                "Kills Per Round": "0.62",
+                "Headshots": "58.7%",
+                "Maps Played": "30",
+                "Deaths Per Round": "0.70",
+                "Rounds Contributed": "69.5%"
+            },
+            "hades": {
+                "Rating": "1.11",
+                "Kills Per Round": "0.73",
+                "Headshots": "33.0%",
+                "Maps Played": "39",
+                "Deaths Per Round": "0.62",
+                "Rounds Contributed": "70.6%"
+            },
+            "Kylar": {
+                "Rating": "1.09",
+                "Kills Per Round": "0.71",
+                "Headshots": "56.9%",
+                "Maps Played": "39",
+                "Deaths Per Round": "0.68",
+                "Rounds Contributed": "71.9%"
+            }
+        },
+        "matches": [
+            {
+                "date": "12:50",
+                "team1": "ENCE",
+                "score": "-:-",
+                "team2": "Spirit"
+            },
+            {
+                "date": "09/02/2024",
+                "team1": "ENCE",
+                "score": "1:2",
+                "team2": "Falcons"
+            },
+            {
+                "date": "06/02/2024",
+                "team1": "ENCE",
+                "score": "0:2",
+                "team2": "MOUZ"
+            },
+            {
+                "date": "05/02/2024",
+                "team1": "ENCE",
+                "score": "2:0",
+                "team2": "G2"
+            },
+            {
+                "date": "03/02/2024",
+                "team1": "ENCE",
+                "score": "2:1",
+                "team2": "Vitality"
+            },
+            {
+                "date": "02/02/2024",
+                "team1": "ENCE",
+                "score": "2:1",
+                "team2": "TheMongolz"
+            },
+            {
+                "date": "01/02/2024",
+                "team1": "ENCE",
+                "score": "2:0",
+                "team2": "Astralis"
+            },
+            {
+                "date": "31/01/2024",
+                "team1": "ENCE",
+                "score": "9:13",
+                "team2": "BIG"
+            },
+            {
+                "date": "14/12/2023",
+                "team1": "ENCE",
+                "score": "1:2",
+                "team2": "Natus Vincere"
+            },
+            {
+                "date": "13/12/2023",
+                "team1": "ENCE",
+                "score": "0:2",
+                "team2": "Cloud9"
+            },
+            {
+                "date": "02/12/2023",
+                "team1": "ENCE",
+                "score": "0:2",
+                "team2": "Apeks"
+            },
+            {
+                "date": "01/12/2023",
+                "team1": "ENCE",
+                "score": "2:1",
+                "team2": "GamerLegion"
+            },
+            {
+                "date": "29/11/2023",
+                "team1": "ENCE",
+                "score": "2:1",
+                "team2": "fnatic"
+            },
+            {
+                "date": "29/11/2023",
+                "team1": "ENCE",
+                "score": "6:13",
+                "team2": "HAVU"
+            },
+            {
+                "date": "12/11/2023",
+                "team1": "ENCE",
+                "score": "1:2",
+                "team2": "FaZe"
+            },
+            {
+                "date": "11/11/2023",
+                "team1": "ENCE",
+                "score": "2:1",
+                "team2": "Ninjas in Pyjamas"
+            },
+            {
+                "date": "08/11/2023",
+                "team1": "ENCE",
+                "score": "1:2",
+                "team2": "Astralis"
+            }
+        ],
+        "win_percentage": "46.2%"
+    },
+    "FURIA": {
+        "position": "#14",
+        "points": "190 points",
+        "players": {
+            "FalleN": {
+                "Rating": "0.94",
+                "Kills Per Round": "0.59",
+                "Headshots": "38.1%",
+                "Maps Played": "27",
+                "Deaths Per Round": "0.65",
+                "Rounds Contributed": "66.4%"
+            },
+            "chelo": {
+                "Rating": "1.02",
+                "Kills Per Round": "0.67",
+                "Headshots": "60.1%",
+                "Maps Played": "27",
+                "Deaths Per Round": "0.68",
+                "Rounds Contributed": "70.7%"
+            },
+            "arT": {
+                "Rating": "0.96",
+                "Kills Per Round": "0.60",
+                "Headshots": "52.7%",
+                "Maps Played": "27",
+                "Deaths Per Round": "0.72",
+                "Rounds Contributed": "69.0%"
+            },
+            "yuurih": {
+                "Rating": "1.02",
+                "Kills Per Round": "0.64",
+                "Headshots": "46.6%",
+                "Maps Played": "27",
+                "Deaths Per Round": "0.66",
+                "Rounds Contributed": "70.7%"
+            },
+            "KSCERATO": {
+                "Rating": "1.12",
+                "Kills Per Round": "0.71",
+                "Headshots": "49.8%",
+                "Maps Played": "27",
+                "Deaths Per Round": "0.62",
+                "Rounds Contributed": "74.3%"
+            }
+        },
+        "matches": [
+            {
+                "date": "10/02/2024",
+                "team1": "FURIA",
+                "score": "5:13",
+                "team2": "Metizport"
+            },
+            {
+                "date": "10/02/2024",
+                "team1": "FURIA",
+                "score": "13:10",
+                "team2": "ex-Anonymo"
+            },
+            {
+                "date": "10/02/2024",
+                "team1": "FURIA",
+                "score": "5:13",
+                "team2": "Metizport"
+            },
+            {
+                "date": "01/02/2024",
+                "team1": "FURIA",
+                "score": "1:2",
+                "team2": "Apeks"
+            },
+            {
+                "date": "31/01/2024",
+                "team1": "FURIA",
+                "score": "14:16",
+                "team2": "TheMongolz"
+            },
+            {
+                "date": "08/12/2023",
+                "team1": "FURIA",
+                "score": "0:2",
+                "team2": "Spirit"
+            },
+            {
+                "date": "07/12/2023",
+                "team1": "FURIA",
+                "score": "2:0",
+                "team2": "Astralis"
+            },
+            {
+                "date": "06/12/2023",
+                "team1": "FURIA",
+                "score": "0:2",
+                "team2": "Spirit"
+            },
+            {
+                "date": "03/12/2023",
+                "team1": "FURIA",
+                "score": "3:1",
+                "team2": "Apeks"
+            },
+            {
+                "date": "02/12/2023",
+                "team1": "FURIA",
+                "score": "2:0",
+                "team2": "HAVU"
+            },
+            {
+                "date": "01/12/2023",
+                "team1": "FURIA",
+                "score": "2:0",
+                "team2": "MOUZ"
+            },
+            {
+                "date": "30/11/2023",
+                "team1": "FURIA",
+                "score": "0:2",
+                "team2": "Apeks"
+            },
+            {
+                "date": "30/11/2023",
+                "team1": "FURIA",
+                "score": "13:8",
+                "team2": "Complexity"
+            },
+            {
+                "date": "19/11/2023",
+                "team1": "FURIA",
+                "score": "1:2",
+                "team2": "9 Pandas"
+            },
+            {
+                "date": "18/11/2023",
+                "team1": "FURIA",
+                "score": "2:1",
+                "team2": "Aurora"
+            },
+            {
+                "date": "18/11/2023",
+                "team1": "FURIA",
+                "score": "13:8",
+                "team2": "MIBR"
+            }
+        ],
+        "win_percentage": "42.9%"
+    },
+    "Heroic": {
+        "position": "#15",
+        "points": "190 points",
+        "players": {
+            "NertZ": {
+                "Rating": "1.14",
+                "Kills Per Round": "0.70",
+                "Headshots": "51.0%",
+                "Maps Played": "47",
+                "Deaths Per Round": "0.66",
+                "Rounds Contributed": "73.2%"
+            },
+            "TeSeS": {
+                "Rating": "1.10",
+                "Kills Per Round": "0.69",
+                "Headshots": "51.8%",
+                "Maps Played": "43",
+                "Deaths Per Round": "0.67",
+                "Rounds Contributed": "72.5%"
+            },
+            "nicoodoz": {
+                "Rating": "1.19",
+                "Kills Per Round": "0.77",
+                "Headshots": "49.4%",
+                "Maps Played": "69",
+                "Deaths Per Round": "0.62",
+                "Rounds Contributed": "75.0%"
+            },
+            "sjuush": {
+                "Rating": "1.05",
+                "Kills Per Round": "0.66",
+                "Headshots": "53.4%",
+                "Maps Played": "43",
+                "Deaths Per Round": "0.67",
+                "Rounds Contributed": "72.6%"
+            },
+            "kyxsan": {
+                "Rating": "1.04",
+                "Kills Per Round": "0.64",
+                "Headshots": "50.4%",
+                "Maps Played": "60",
+                "Deaths Per Round": "0.65",
+                "Rounds Contributed": "73.1%"
+            }
+        },
+        "matches": [
+            {
+                "date": "15:00",
+                "team1": "Heroic",
+                "score": "-:-",
+                "team2": "Preasy"
+            },
+            {
+                "date": "06/02/2024",
+                "team1": "Heroic",
+                "score": "0:2",
+                "team2": "G2"
+            },
+            {
+                "date": "06/02/2024",
+                "team1": "Heroic",
+                "score": "2:1",
+                "team2": "GamerLegion"
+            },
+            {
+                "date": "05/02/2024",
+                "team1": "Heroic",
+                "score": "2:1",
+                "team2": "Vitality"
+            },
+            {
+                "date": "03/02/2024",
+                "team1": "Heroic",
+                "score": "1:2",
+                "team2": "G2"
+            },
+            {
+                "date": "31/01/2024",
+                "team1": "Heroic",
+                "score": "2:1",
+                "team2": "BIG"
+            },
+            {
+                "date": "31/01/2024",
+                "team1": "Heroic",
+                "score": "13:11",
+                "team2": "Astralis"
+            },
+            {
+                "date": "25/01/2024",
+                "team1": "Heroic",
+                "score": "1:2",
+                "team2": "BIG"
+            },
+            {
+                "date": "24/01/2024",
+                "team1": "Heroic",
+                "score": "0:2",
+                "team2": "Cloud9"
+            },
+            {
+                "date": "20/01/2024",
+                "team1": "Heroic",
+                "score": "2:0",
+                "team2": "sYnck"
+            },
+            {
+                "date": "20/01/2024",
+                "team1": "Heroic",
+                "score": "2:0",
+                "team2": "IKLA"
+            },
+            {
+                "date": "19/01/2024",
+                "team1": "Heroic",
+                "score": "14:16",
+                "team2": "KOI"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "Heroic",
+                "score": "12:16",
+                "team2": "MOUZ"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "Heroic",
+                "score": "13:9",
+                "team2": "FORZE"
+            },
+            {
+                "date": "11/01/2024",
+                "team1": "Heroic",
+                "score": "13:5",
+                "team2": "SINNERS"
+            },
+            {
+                "date": "11/01/2024",
+                "team1": "Heroic",
+                "score": "19:15",
+                "team2": "IKLA"
+            },
+            {
+                "date": "11/01/2024",
+                "team1": "Heroic",
+                "score": "2:0",
+                "team2": "sYnck"
+            }
+        ],
+        "win_percentage": "56.5%"
+    },
+    "Eternal Fire": {
+        "position": "#16",
+        "points": "189 points",
+        "players": {
+            "MAJ3R": {
+                "Rating": "0.95",
+                "Kills Per Round": "0.56",
+                "Headshots": "46.2%",
+                "Maps Played": "38",
+                "Deaths Per Round": "0.62",
+                "Rounds Contributed": "69.6%"
+            },
+            "XANTARES": {
+                "Rating": "1.23",
+                "Kills Per Round": "0.75",
+                "Headshots": "52.9%",
+                "Maps Played": "38",
+                "Deaths Per Round": "0.67",
+                "Rounds Contributed": "73.3%"
+            },
+            "woxic": {
+                "Rating": "1.13",
+                "Kills Per Round": "0.71",
+                "Headshots": "35.4%",
+                "Maps Played": "38",
+                "Deaths Per Round": "0.59",
+                "Rounds Contributed": "73.1%"
+            },
+            "Calyx": {
+                "Rating": "1.02",
+                "Kills Per Round": "0.64",
+                "Headshots": "61.4%",
+                "Maps Played": "38",
+                "Deaths Per Round": "0.62",
+                "Rounds Contributed": "73.2%"
+            },
+            "Wicadia": {
+                "Rating": "1.14",
+                "Kills Per Round": "0.74",
+                "Headshots": "54.1%",
+                "Maps Played": "38",
+                "Deaths Per Round": "0.68",
+                "Rounds Contributed": "73.7%"
+            }
+        },
+        "matches": [
+            {
+                "date": "17/02/2024",
+                "team1": "Eternal Fire",
+                "score": "2:0",
+                "team2": "BetBoom"
+            },
+            {
+                "date": "16/02/2024",
+                "team1": "Eternal Fire",
+                "score": "0:2",
+                "team2": "FaZe"
+            },
+            {
+                "date": "15/02/2024",
+                "team1": "Eternal Fire",
+                "score": "13:5",
+                "team2": "Falcons"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "Eternal Fire",
+                "score": "13:16",
+                "team2": "G2"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "Eternal Fire",
+                "score": "13:11",
+                "team2": "Ninjas in Pyjamas"
+            },
+            {
+                "date": "05/02/2024",
+                "team1": "Eternal Fire",
+                "score": "1:2",
+                "team2": "Natus Vincere"
+            },
+            {
+                "date": "04/02/2024",
+                "team1": "Eternal Fire",
+                "score": "1:2",
+                "team2": "FaZe"
+            },
+            {
+                "date": "03/02/2024",
+                "team1": "Eternal Fire",
+                "score": "2:0",
+                "team2": "Falcons"
+            },
+            {
+                "date": "31/01/2024",
+                "team1": "Eternal Fire",
+                "score": "2:0",
+                "team2": "Rebels"
+            },
+            {
+                "date": "31/01/2024",
+                "team1": "Eternal Fire",
+                "score": "13:1",
+                "team2": "BetBoom"
+            },
+            {
+                "date": "19/01/2024",
+                "team1": "Eternal Fire",
+                "score": "2:1",
+                "team2": "MOUZ"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "Eternal Fire",
+                "score": "13:10",
+                "team2": "IKLA"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "Eternal Fire",
+                "score": "13:4",
+                "team2": "PERA"
+            },
+            {
+                "date": "26/11/2023",
+                "team1": "Eternal Fire",
+                "score": "0:2",
+                "team2": "Monte"
+            },
+            {
+                "date": "26/11/2023",
+                "team1": "Eternal Fire",
+                "score": "2:1",
+                "team2": "MIBR"
+            },
+            {
+                "date": "25/11/2023",
+                "team1": "Eternal Fire",
+                "score": "2:0",
+                "team2": "Nouns"
+            }
+        ],
+        "win_percentage": "65.0%"
+    },
+    "GamerLegion": {
+        "position": "#17",
+        "points": "176 points",
+        "players": {
+            "Snax": {
+                "Rating": "0.97",
+                "Kills Per Round": "0.63",
+                "Headshots": "49.2%",
+                "Maps Played": "40",
+                "Deaths Per Round": "0.69",
+                "Rounds Contributed": "69.0%"
+            },
+            "acoR": {
+                "Rating": "1.01",
+                "Kills Per Round": "0.65",
+                "Headshots": "38.4%",
+                "Maps Played": "40",
+                "Deaths Per Round": "0.66",
+                "Rounds Contributed": "69.5%"
+            },
+            "Keoz": {
+                "Rating": "0.90",
+                "Kills Per Round": "0.58",
+                "Headshots": "56.1%",
+                "Maps Played": "40",
+                "Deaths Per Round": "0.71",
+                "Rounds Contributed": "65.0%"
+            },
+            "isak": {
+                "Rating": "0.94",
+                "Kills Per Round": "0.58",
+                "Headshots": "52.3%",
+                "Maps Played": "40",
+                "Deaths Per Round": "0.68",
+                "Rounds Contributed": "69.0%"
+            },
+            "volt": {
+                "Rating": "0.99",
+                "Kills Per Round": "0.60",
+                "Headshots": "50.4%",
+                "Maps Played": "36",
+                "Deaths Per Round": "0.66",
+                "Rounds Contributed": "71.5%"
+            }
+        },
+        "matches": [
+            {
+                "date": "19/02/2024",
+                "team1": "GamerLegion",
+                "score": "2:13",
+                "team2": "Vitality"
+            },
+            {
+                "date": "06/02/2024",
+                "team1": "GamerLegion",
+                "score": "1:2",
+                "team2": "Heroic"
+            },
+            {
+                "date": "05/02/2024",
+                "team1": "GamerLegion",
+                "score": "0:2",
+                "team2": "MOUZ"
+            },
+            {
+                "date": "04/02/2024",
+                "team1": "GamerLegion",
+                "score": "2:0",
+                "team2": "Monte"
+            },
+            {
+                "date": "01/02/2024",
+                "team1": "GamerLegion",
+                "score": "2:1",
+                "team2": "Virtus.pro"
+            },
+            {
+                "date": "31/01/2024",
+                "team1": "GamerLegion",
+                "score": "13:10",
+                "team2": "M80"
+            },
+            {
+                "date": "26/01/2024",
+                "team1": "GamerLegion",
+                "score": "1:2",
+                "team2": "FaZe"
+            },
+            {
+                "date": "25/01/2024",
+                "team1": "GamerLegion",
+                "score": "0:2",
+                "team2": "Liquid"
+            },
+            {
+                "date": "24/01/2024",
+                "team1": "GamerLegion",
+                "score": "2:0",
+                "team2": "FaZe"
+            },
+            {
+                "date": "16/12/2023",
+                "team1": "GamerLegion",
+                "score": "1:2",
+                "team2": "Complexity"
+            },
+            {
+                "date": "15/12/2023",
+                "team1": "GamerLegion",
+                "score": "11:13",
+                "team2": "Apeks"
+            },
+            {
+                "date": "06/12/2023",
+                "team1": "GamerLegion",
+                "score": "0:2",
+                "team2": "BetBoom"
+            },
+            {
+                "date": "05/12/2023",
+                "team1": "GamerLegion",
+                "score": "0:2",
+                "team2": "Cloud9"
+            },
+            {
+                "date": "01/12/2023",
+                "team1": "GamerLegion",
+                "score": "1:2",
+                "team2": "ENCE"
+            },
+            {
+                "date": "29/11/2023",
+                "team1": "GamerLegion",
+                "score": "1:2",
+                "team2": "HAVU"
+            },
+            {
+                "date": "29/11/2023",
+                "team1": "GamerLegion",
+                "score": "13:8",
+                "team2": "fnatic"
+            }
+        ],
+        "win_percentage": "31.6%"
+    },
+    "Astralis": {
+        "position": "#18",
+        "points": "156 points",
+        "players": {
+            "device": {
+                "Rating": "1.12",
+                "Kills Per Round": "0.68",
+                "Headshots": "36.3%",
+                "Maps Played": "34",
+                "Deaths Per Round": "0.62",
+                "Rounds Contributed": "72.5%"
+            },
+            "stavn": {
+                "Rating": "1.07",
+                "Kills Per Round": "0.68",
+                "Headshots": "46.7%",
+                "Maps Played": "30",
+                "Deaths Per Round": "0.68",
+                "Rounds Contributed": "71.0%"
+            },
+            "blameF": {
+                "Rating": "1.13",
+                "Kills Per Round": "0.68",
+                "Headshots": "44.5%",
+                "Maps Played": "34",
+                "Deaths Per Round": "0.60",
+                "Rounds Contributed": "73.9%"
+            },
+            "jabbi": {
+                "Rating": "1.03",
+                "Kills Per Round": "0.66",
+                "Headshots": "62.1%",
+                "Maps Played": "30",
+                "Deaths Per Round": "0.65",
+                "Rounds Contributed": "70.5%"
+            },
+            "Staehr": {
+                "Rating": "1.01",
+                "Kills Per Round": "0.62",
+                "Headshots": "54.9%",
+                "Maps Played": "34",
+                "Deaths Per Round": "0.65",
+                "Rounds Contributed": "72.7%"
+            }
+        },
+        "matches": [
+            {
+                "date": "15:00",
+                "team1": "Astralis",
+                "score": "-:-",
+                "team2": "Nexus"
+            },
+            {
+                "date": "01/02/2024",
+                "team1": "Astralis",
+                "score": "0:2",
+                "team2": "ENCE"
+            },
+            {
+                "date": "31/01/2024",
+                "team1": "Astralis",
+                "score": "11:13",
+                "team2": "Heroic"
+            },
+            {
+                "date": "28/01/2024",
+                "team1": "Astralis",
+                "score": "2:1",
+                "team2": "BIG"
+            },
+            {
+                "date": "27/01/2024",
+                "team1": "Astralis",
+                "score": "1:2",
+                "team2": "Vitality"
+            },
+            {
+                "date": "23/01/2024",
+                "team1": "Astralis",
+                "score": "2:1",
+                "team2": "Vitality"
+            },
+            {
+                "date": "22/01/2024",
+                "team1": "Astralis",
+                "score": "2:0",
+                "team2": "Falcons"
+            },
+            {
+                "date": "20/01/2024",
+                "team1": "Astralis",
+                "score": "2:0",
+                "team2": "PERA"
+            },
+            {
+                "date": "19/01/2024",
+                "team1": "Astralis",
+                "score": "1:2",
+                "team2": "AMKAL"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "Astralis",
+                "score": "13:6",
+                "team2": "Preasy"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "Astralis",
+                "score": "13:7",
+                "team2": "ex-ThunderFlash"
+            },
+            {
+                "date": "14/01/2024",
+                "team1": "Astralis",
+                "score": "2:0",
+                "team2": "Ninjas in Pyjamas"
+            },
+            {
+                "date": "13/01/2024",
+                "team1": "Astralis",
+                "score": "2:0",
+                "team2": "ALTERNATE aTTaX"
+            },
+            {
+                "date": "07/12/2023",
+                "team1": "Astralis",
+                "score": "0:2",
+                "team2": "FURIA"
+            },
+            {
+                "date": "06/12/2023",
+                "team1": "Astralis",
+                "score": "1:2",
+                "team2": "Virtus.pro"
+            },
+            {
+                "date": "23/11/2023",
+                "team1": "Astralis",
+                "score": "0:2",
+                "team2": "Heroic"
+            },
+            {
+                "date": "22/11/2023",
+                "team1": "Astralis",
+                "score": "0:2",
+                "team2": "Complexity"
+            }
+        ],
+        "win_percentage": "50.0%"
+    },
+    "BIG": {
+        "position": "#19",
+        "points": "116 points",
+        "players": {
+            "tabseN": {
+                "Rating": "1.11",
+                "Kills Per Round": "0.67",
+                "Headshots": "53.1%",
+                "Maps Played": "45",
+                "Deaths Per Round": "0.68",
+                "Rounds Contributed": "75.1%"
+            },
+            "mantuu": {
+                "Rating": "1.14",
+                "Kills Per Round": "0.71",
+                "Headshots": "34.8%",
+                "Maps Played": "45",
+                "Deaths Per Round": "0.59",
+                "Rounds Contributed": "75.1%"
+            },
+            "prosus": {
+                "Rating": "1.11",
+                "Kills Per Round": "0.72",
+                "Headshots": "54.4%",
+                "Maps Played": "45",
+                "Deaths Per Round": "0.68",
+                "Rounds Contributed": "73.7%"
+            },
+            "Krimbo": {
+                "Rating": "1.17",
+                "Kills Per Round": "0.69",
+                "Headshots": "48.7%",
+                "Maps Played": "45",
+                "Deaths Per Round": "0.53",
+                "Rounds Contributed": "77.0%"
+            },
+            "s1n": {
+                "Rating": "1.03",
+                "Kills Per Round": "0.60",
+                "Headshots": "56.2%",
+                "Maps Played": "45",
+                "Deaths Per Round": "0.66",
+                "Rounds Contributed": "73.8%"
+            }
+        },
+        "matches": [
+            {
+                "date": "02/02/2024",
+                "team1": "BIG",
+                "score": "1:2",
+                "team2": "Apeks"
+            },
+            {
+                "date": "31/01/2024",
+                "team1": "BIG",
+                "score": "1:2",
+                "team2": "Heroic"
+            },
+            {
+                "date": "31/01/2024",
+                "team1": "BIG",
+                "score": "13:9",
+                "team2": "ENCE"
+            },
+            {
+                "date": "28/01/2024",
+                "team1": "BIG",
+                "score": "1:2",
+                "team2": "Astralis"
+            },
+            {
+                "date": "27/01/2024",
+                "team1": "BIG",
+                "score": "0:2",
+                "team2": "Virtus.pro"
+            },
+            {
+                "date": "26/01/2024",
+                "team1": "BIG",
+                "score": "2:0",
+                "team2": "Cloud9"
+            },
+            {
+                "date": "25/01/2024",
+                "team1": "BIG",
+                "score": "2:1",
+                "team2": "Heroic"
+            },
+            {
+                "date": "24/01/2024",
+                "team1": "BIG",
+                "score": "0:2",
+                "team2": "Virtus.pro"
+            },
+            {
+                "date": "20/01/2024",
+                "team1": "BIG",
+                "score": "0:2",
+                "team2": "Nexus"
+            },
+            {
+                "date": "19/01/2024",
+                "team1": "BIG",
+                "score": "8:13",
+                "team2": "fnatic"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "BIG",
+                "score": "9:13",
+                "team2": "BetBoom"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "BIG",
+                "score": "16:13",
+                "team2": "Permitta"
+            },
+            {
+                "date": "13/12/2023",
+                "team1": "BIG",
+                "score": "2:0",
+                "team2": "9INE"
+            },
+            {
+                "date": "13/12/2023",
+                "team1": "BIG",
+                "score": "2:0",
+                "team2": "Aurora"
+            },
+            {
+                "date": "12/12/2023",
+                "team1": "BIG",
+                "score": "2:0",
+                "team2": "Sprout"
+            },
+            {
+                "date": "07/12/2023",
+                "team1": "BIG",
+                "score": "2:0",
+                "team2": "Aurora"
+            }
+        ],
+        "win_percentage": "54.5%"
+    },
+    "MIBR": {
+        "position": "#20",
+        "points": "109 points",
+        "players": {
+            "exit": {
+                "Rating": "1.05",
+                "Kills Per Round": "0.61",
+                "Headshots": "53.9%",
+                "Maps Played": "40",
+                "Deaths Per Round": "0.59",
+                "Rounds Contributed": "75.5%"
+            },
+            "saffee": {
+                "Rating": "1.03",
+                "Kills Per Round": "0.65",
+                "Headshots": "28.4%",
+                "Maps Played": "40",
+                "Deaths Per Round": "0.64",
+                "Rounds Contributed": "69.4%"
+            },
+            "drop": {
+                "Rating": "1.06",
+                "Kills Per Round": "0.63",
+                "Headshots": "52.1%",
+                "Maps Played": "40",
+                "Deaths Per Round": "0.63",
+                "Rounds Contributed": "74.7%"
+            },
+            "brnz4n": {
+                "Rating": "1.06",
+                "Kills Per Round": "0.68",
+                "Headshots": "60.8%",
+                "Maps Played": "40",
+                "Deaths Per Round": "0.68",
+                "Rounds Contributed": "69.8%"
+            },
+            "insani": {
+                "Rating": "1.14",
+                "Kills Per Round": "0.71",
+                "Headshots": "54.9%",
+                "Maps Played": "40",
+                "Deaths Per Round": "0.65",
+                "Rounds Contributed": "73.0%"
+            }
+        },
+        "matches": [
+            {
+                "date": "22/02/2024",
+                "team1": "MIBR",
+                "score": "-:-",
+                "team2": "paiN"
+            },
+            {
+                "date": "22/02/2024",
+                "team1": "MIBR",
+                "score": "-:-",
+                "team2": "paiN"
+            },
+            {
+                "date": "03/02/2024",
+                "team1": "MIBR",
+                "score": "1:2",
+                "team2": "Imperial"
+            },
+            {
+                "date": "02/02/2024",
+                "team1": "MIBR",
+                "score": "13:11",
+                "team2": "paiN"
+            },
+            {
+                "date": "01/02/2024",
+                "team1": "MIBR",
+                "score": "16:13",
+                "team2": "W7M"
+            },
+            {
+                "date": "23/01/2024",
+                "team1": "MIBR",
+                "score": "10:13",
+                "team2": "adalYamigos"
+            },
+            {
+                "date": "20/01/2024",
+                "team1": "MIBR",
+                "score": "2:0",
+                "team2": "BESTIA"
+            },
+            {
+                "date": "20/01/2024",
+                "team1": "MIBR",
+                "score": "13:10",
+                "team2": "TIMACETA"
+            },
+            {
+                "date": "19/01/2024",
+                "team1": "MIBR",
+                "score": "19:17",
+                "team2": "ODDIK"
+            },
+            {
+                "date": "19/01/2024",
+                "team1": "MIBR",
+                "score": "1:2",
+                "team2": "9z"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "MIBR",
+                "score": "2:1",
+                "team2": "Sharks"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "MIBR",
+                "score": "1:2",
+                "team2": "9z"
+            },
+            {
+                "date": "17/01/2024",
+                "team1": "MIBR",
+                "score": "2:0",
+                "team2": "Sharks"
+            },
+            {
+                "date": "09/12/2023",
+                "team1": "MIBR",
+                "score": "0:2",
+                "team2": "Spirit"
+            },
+            {
+                "date": "07/12/2023",
+                "team1": "MIBR",
+                "score": "2:1",
+                "team2": "Cloud9"
+            },
+            {
+                "date": "05/12/2023",
+                "team1": "MIBR",
+                "score": "2:0",
+                "team2": "BetBoom"
+            },
+            {
+                "date": "26/11/2023",
+                "team1": "MIBR",
+                "score": "1:2",
+                "team2": "Eternal Fire"
+            },
+            {
+                "date": "24/11/2023",
+                "team1": "MIBR",
+                "score": "25:22",
+                "team2": "Virtus.pro"
+            }
+        ],
+        "win_percentage": "65.0%"
+    },
+    "BetBoom": {
+        "position": "#21",
+        "points": "108 points",
+        "players": {
+            "zorte": {
+                "Rating": "1.10",
+                "Kills Per Round": "0.73",
+                "Headshots": "41.4%",
+                "Maps Played": "41",
+                "Deaths Per Round": "0.67",
+                "Rounds Contributed": "72.1%"
+            },
+            "nafany": {
+                "Rating": "0.92",
+                "Kills Per Round": "0.60",
+                "Headshots": "55.1%",
+                "Maps Played": "41",
+                "Deaths Per Round": "0.76",
+                "Rounds Contributed": "67.3%"
+            },
+            "s1ren": {
+                "Rating": "1.01",
+                "Kills Per Round": "0.64",
+                "Headshots": "62.7%",
+                "Maps Played": "35",
+                "Deaths Per Round": "0.67",
+                "Rounds Contributed": "71.8%"
+            },
+            "KaiR0N-": {
+                "Rating": "0.98",
+                "Kills Per Round": "0.65",
+                "Headshots": "57.1%",
+                "Maps Played": "41",
+                "Deaths Per Round": "0.76",
+                "Rounds Contributed": "72.1%"
+            },
+            "danistzz": {
+                "Rating": "0.99",
+                "Kills Per Round": "0.63",
+                "Headshots": "62.5%",
+                "Maps Played": "41",
+                "Deaths Per Round": "0.70",
+                "Rounds Contributed": "70.7%"
+            }
+        },
+        "matches": [
+            {
+                "date": "17/02/2024",
+                "team1": "BetBoom",
+                "score": "0:2",
+                "team2": "Eternal Fire"
+            },
+            {
+                "date": "16/02/2024",
+                "team1": "BetBoom",
+                "score": "1:2",
+                "team2": "Natus Vincere"
+            },
+            {
+                "date": "15/02/2024",
+                "team1": "BetBoom",
+                "score": "13:10",
+                "team2": "Enterprise"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "BetBoom",
+                "score": "13:1",
+                "team2": "Into the Breach"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "BetBoom",
+                "score": "6:13",
+                "team2": "fnatic"
+            },
+            {
+                "date": "08/02/2024",
+                "team1": "BetBoom",
+                "score": "1:2",
+                "team2": "FORZE"
+            },
+            {
+                "date": "08/02/2024",
+                "team1": "BetBoom",
+                "score": "0:2",
+                "team2": "Nemiga"
+            },
+            {
+                "date": "01/02/2024",
+                "team1": "BetBoom",
+                "score": "1:2",
+                "team2": "Cloud9"
+            },
+            {
+                "date": "31/01/2024",
+                "team1": "BetBoom",
+                "score": "1:13",
+                "team2": "Eternal Fire"
+            },
+            {
+                "date": "20/01/2024",
+                "team1": "BetBoom",
+                "score": "2:0",
+                "team2": "OG"
+            },
+            {
+                "date": "19/01/2024",
+                "team1": "BetBoom",
+                "score": "0:2",
+                "team2": "Cloud9"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "BetBoom",
+                "score": "13:9",
+                "team2": "BIG"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "BetBoom",
+                "score": "13:6",
+                "team2": "Zero Tenacity"
+            },
+            {
+                "date": "13/12/2023",
+                "team1": "BetBoom",
+                "score": "1:2",
+                "team2": "9INE"
+            },
+            {
+                "date": "12/12/2023",
+                "team1": "BetBoom",
+                "score": "2:1",
+                "team2": "Preasy"
+            },
+            {
+                "date": "09/12/2023",
+                "team1": "BetBoom",
+                "score": "0:2",
+                "team2": "Virtus.pro"
+            }
+        ],
+        "win_percentage": "42.9%"
+    },
+    "HAVU": {
+        "position": "#22",
+        "points": "102 points",
+        "players": {
+            "uli": {
+                "Rating": "0.99",
+                "Kills Per Round": "0.60",
+                "Headshots": "62.3%",
+                "Maps Played": "10",
+                "Deaths Per Round": "0.66",
+                "Rounds Contributed": "66.8%"
+            },
+            "ottoNd": {
+                "Rating": "0.88",
+                "Kills Per Round": "0.54",
+                "Headshots": "26.6%",
+                "Maps Played": "10",
+                "Deaths Per Round": "0.60",
+                "Rounds Contributed": "67.3%"
+            },
+            "Airax": {
+                "Rating": "0.98",
+                "Kills Per Round": "0.66",
+                "Headshots": "47.4%",
+                "Maps Played": "10",
+                "Deaths Per Round": "0.79",
+                "Rounds Contributed": "68.3%"
+            },
+            "Banjo": {
+                "Rating": "0.93",
+                "Kills Per Round": "0.61",
+                "Headshots": "49.6%",
+                "Maps Played": "10",
+                "Deaths Per Round": "0.73",
+                "Rounds Contributed": "65.3%"
+            }
+        },
+        "matches": [
+            {
+                "date": "11/01/2024",
+                "team1": "HAVU",
+                "score": "6:13",
+                "team2": "Heroic"
+            },
+            {
+                "date": "10/01/2024",
+                "team1": "HAVU",
+                "score": "13:8",
+                "team2": "TSM"
+            },
+            {
+                "date": "09/01/2024",
+                "team1": "HAVU",
+                "score": "8:13",
+                "team2": "fnatic"
+            },
+            {
+                "date": "09/01/2024",
+                "team1": "HAVU",
+                "score": "13:11",
+                "team2": "Sampi"
+            },
+            {
+                "date": "02/12/2023",
+                "team1": "HAVU",
+                "score": "0:2",
+                "team2": "FURIA"
+            },
+            {
+                "date": "29/11/2023",
+                "team1": "HAVU",
+                "score": "2:1",
+                "team2": "GamerLegion"
+            },
+            {
+                "date": "29/11/2023",
+                "team1": "HAVU",
+                "score": "13:6",
+                "team2": "ENCE"
+            },
+            {
+                "date": "02/11/2023",
+                "team1": "HAVU",
+                "score": "0:2",
+                "team2": "00NATION"
+            },
+            {
+                "date": "31/10/2023",
+                "team1": "HAVU",
+                "score": "0:2",
+                "team2": "GODSENT"
+            },
+            {
+                "date": "28/10/2023",
+                "team1": "HAVU",
+                "score": "2:0",
+                "team2": "Nexus"
+            },
+            {
+                "date": "24/10/2023",
+                "team1": "HAVU",
+                "score": "2:0",
+                "team2": "Espionage"
+            },
+            {
+                "date": "20/10/2023",
+                "team1": "HAVU",
+                "score": "1:2",
+                "team2": "Entropiq"
+            },
+            {
+                "date": "01/11/2023",
+                "team1": "HAVU",
+                "score": "0:2",
+                "team2": "BIG Academy"
+            },
+            {
+                "date": "31/10/2023",
+                "team1": "HAVU",
+                "score": "0:2",
+                "team2": "Illuminar"
+            },
+            {
+                "date": "20/09/2023",
+                "team1": "HAVU",
+                "score": "0:2",
+                "team2": "ALTERNATE aTTaX"
+            },
+            {
+                "date": "19/09/2023",
+                "team1": "HAVU",
+                "score": "0:2",
+                "team2": "MIBR"
+            }
+        ],
+        "win_percentage": "57.1%"
+    },
+    "TheMongolz": {
+        "position": "#23",
+        "points": "98 points",
+        "players": {
+            "bLitz": {
+                "Rating": "1.17",
+                "Kills Per Round": "0.72",
+                "Headshots": "51.2%",
+                "Maps Played": "46",
+                "Deaths Per Round": "0.65",
+                "Rounds Contributed": "74.2%"
+            },
+            "Techno": {
+                "Rating": "1.07",
+                "Kills Per Round": "0.70",
+                "Headshots": "59.2%",
+                "Maps Played": "46",
+                "Deaths Per Round": "0.70",
+                "Rounds Contributed": "71.0%"
+            },
+            "Senzu": {
+                "Rating": "1.17",
+                "Kills Per Round": "0.76",
+                "Headshots": "58.6%",
+                "Maps Played": "46",
+                "Deaths Per Round": "0.67",
+                "Rounds Contributed": "70.9%"
+            },
+            "mzinho": {
+                "Rating": "0.97",
+                "Kills Per Round": "0.60",
+                "Headshots": "66.8%",
+                "Maps Played": "46",
+                "Deaths Per Round": "0.66",
+                "Rounds Contributed": "68.5%"
+            },
+            "910": {
+                "Rating": "1.08",
+                "Kills Per Round": "0.69",
+                "Headshots": "31.7%",
+                "Maps Played": "46",
+                "Deaths Per Round": "0.63",
+                "Rounds Contributed": "72.0%"
+            }
+        },
+        "matches": [
+            {
+                "date": "02/02/2024",
+                "team1": "TheMongolz",
+                "score": "1:2",
+                "team2": "ENCE"
+            },
+            {
+                "date": "01/02/2024",
+                "team1": "TheMongolz",
+                "score": "0:2",
+                "team2": "Spirit"
+            },
+            {
+                "date": "31/01/2024",
+                "team1": "TheMongolz",
+                "score": "16:14",
+                "team2": "FURIA"
+            },
+            {
+                "date": "28/01/2024",
+                "team1": "TheMongolz",
+                "score": "2:0",
+                "team2": "Lynn Vision"
+            },
+            {
+                "date": "28/01/2024",
+                "team1": "TheMongolz",
+                "score": "2:1",
+                "team2": "NKT"
+            },
+            {
+                "date": "26/01/2024",
+                "team1": "TheMongolz",
+                "score": "28:26",
+                "team2": "TYLOO"
+            },
+            {
+                "date": "26/01/2024",
+                "team1": "TheMongolz",
+                "score": "13:3",
+                "team2": "ACME"
+            },
+            {
+                "date": "27/01/2024",
+                "team1": "TheMongolz",
+                "score": "0:2",
+                "team2": "TYLOO"
+            },
+            {
+                "date": "26/01/2024",
+                "team1": "TheMongolz",
+                "score": "2:0",
+                "team2": "TYLOO"
+            },
+            {
+                "date": "26/01/2024",
+                "team1": "TheMongolz",
+                "score": "2:0",
+                "team2": "The Huns"
+            },
+            {
+                "date": "21/01/2024",
+                "team1": "TheMongolz",
+                "score": "2:0",
+                "team2": "ATOX"
+            },
+            {
+                "date": "19/01/2024",
+                "team1": "TheMongolz",
+                "score": "13:0",
+                "team2": "MungYu"
+            },
+            {
+                "date": "19/01/2024",
+                "team1": "TheMongolz",
+                "score": "13:6",
+                "team2": "NKT"
+            },
+            {
+                "date": "17/12/2023",
+                "team1": "TheMongolz",
+                "score": "0:2",
+                "team2": "Virtus.pro"
+            },
+            {
+                "date": "16/12/2023",
+                "team1": "TheMongolz",
+                "score": "2:0",
+                "team2": "Complexity"
+            },
+            {
+                "date": "16/12/2023",
+                "team1": "TheMongolz",
+                "score": "6:13",
+                "team2": "Apeks"
+            }
+        ],
+        "win_percentage": "73.9%"
+    },
+    "Liquid": {
+        "position": "#24",
+        "points": "72 points",
+        "players": {
+            "cadiaN": {
+                "Rating": "1.08",
+                "Kills Per Round": "0.65",
+                "Headshots": "31.6%",
+                "Maps Played": "36",
+                "Deaths Per Round": "0.58",
+                "Rounds Contributed": "73.1%"
+            },
+            "NAF": {
+                "Rating": "1.25",
+                "Kills Per Round": "0.77",
+                "Headshots": "47.3%",
+                "Maps Played": "30",
+                "Deaths Per Round": "0.59",
+                "Rounds Contributed": "79.8%"
+            },
+            "Twistzz": {
+                "Rating": "1.18",
+                "Kills Per Round": "0.73",
+                "Headshots": "61.7%",
+                "Maps Played": "40",
+                "Deaths Per Round": "0.61",
+                "Rounds Contributed": "77.0%"
+            },
+            "YEKINDAR": {
+                "Rating": "1.18",
+                "Kills Per Round": "0.72",
+                "Headshots": "56.9%",
+                "Maps Played": "30",
+                "Deaths Per Round": "0.64",
+                "Rounds Contributed": "74.8%"
+            },
+            "skullz": {
+                "Rating": "1.11",
+                "Kills Per Round": "0.67",
+                "Headshots": "51.1%",
+                "Maps Played": "30",
+                "Deaths Per Round": "0.61",
+                "Rounds Contributed": "77.8%"
+            }
+        },
+        "matches": [
+            {
+                "date": "28/01/2024",
+                "team1": "Liquid",
+                "score": "0:2",
+                "team2": "G2"
+            },
+            {
+                "date": "27/01/2024",
+                "team1": "Liquid",
+                "score": "0:2",
+                "team2": "FaZe"
+            },
+            {
+                "date": "25/01/2024",
+                "team1": "Liquid",
+                "score": "2:0",
+                "team2": "GamerLegion"
+            },
+            {
+                "date": "24/01/2024",
+                "team1": "Liquid",
+                "score": "2:1",
+                "team2": "Spirit"
+            },
+            {
+                "date": "21/01/2024",
+                "team1": "Liquid",
+                "score": "1:2",
+                "team2": "M80"
+            },
+            {
+                "date": "20/01/2024",
+                "team1": "Liquid",
+                "score": "2:0",
+                "team2": "Wildcard"
+            },
+            {
+                "date": "19/01/2024",
+                "team1": "Liquid",
+                "score": "2:0",
+                "team2": "BOSS"
+            },
+            {
+                "date": "17/01/2024",
+                "team1": "Liquid",
+                "score": "2:0",
+                "team2": "Badass"
+            },
+            {
+                "date": "17/01/2024",
+                "team1": "Liquid",
+                "score": "13:4",
+                "team2": "huge sweaty"
+            },
+            {
+                "date": "17/01/2024",
+                "team1": "Liquid",
+                "score": "16:12",
+                "team2": "Wildcard"
+            },
+            {
+                "date": "16/01/2024",
+                "team1": "Liquid",
+                "score": "13:11",
+                "team2": "LOS"
+            },
+            {
+                "date": "15/01/2024",
+                "team1": "Liquid",
+                "score": "2:0",
+                "team2": "Party Astronauts"
+            },
+            {
+                "date": "14/01/2024",
+                "team1": "Liquid",
+                "score": "13:11",
+                "team2": "Badass"
+            },
+            {
+                "date": "13/01/2024",
+                "team1": "Liquid",
+                "score": "3:13",
+                "team2": "M80"
+            },
+            {
+                "date": "13/01/2024",
+                "team1": "Liquid",
+                "score": "13:10",
+                "team2": "Nouns"
+            },
+            {
+                "date": "10/01/2024",
+                "team1": "Liquid",
+                "score": "13:3",
+                "team2": "NRG"
+            }
+        ],
+        "win_percentage": "77.8%"
+    },
+    "Rebels": {
+        "position": "#25",
+        "points": "57 points",
+        "players": {
+            "casey": {
+                "Rating": "0.88",
+                "Kills Per Round": "0.55",
+                "Headshots": "52.6%",
+                "Maps Played": "20",
+                "Deaths Per Round": "0.73",
+                "Rounds Contributed": "69.4%"
+            },
+            "olimp": {
+                "Rating": "1.07",
+                "Kills Per Round": "0.71",
+                "Headshots": "52.5%",
+                "Maps Played": "31",
+                "Deaths Per Round": "0.70",
+                "Rounds Contributed": "68.6%"
+            },
+            "sNx": {
+                "Rating": "0.90",
+                "Kills Per Round": "0.57",
+                "Headshots": "56.3%",
+                "Maps Played": "31",
+                "Deaths Per Round": "0.68",
+                "Rounds Contributed": "65.9%"
+            },
+            "Flayy": {
+                "Rating": "1.10",
+                "Kills Per Round": "0.73",
+                "Headshots": "33.0%",
+                "Maps Played": "31",
+                "Deaths Per Round": "0.66",
+                "Rounds Contributed": "70.9%"
+            },
+            "kisserek": {
+                "Rating": "0.96",
+                "Kills Per Round": "0.64",
+                "Headshots": "52.5%",
+                "Maps Played": "24",
+                "Deaths Per Round": "0.74",
+                "Rounds Contributed": "68.2%"
+            }
+        },
+        "matches": [
+            {
+                "date": "04/02/2024",
+                "team1": "Rebels",
+                "score": "1:2",
+                "team2": "Falcons"
+            },
+            {
+                "date": "03/02/2024",
+                "team1": "Rebels",
+                "score": "0:2",
+                "team2": "FaZe"
+            },
+            {
+                "date": "02/02/2024",
+                "team1": "Rebels",
+                "score": "2:0",
+                "team2": "M80"
+            },
+            {
+                "date": "31/01/2024",
+                "team1": "Rebels",
+                "score": "0:2",
+                "team2": "Eternal Fire"
+            },
+            {
+                "date": "31/01/2024",
+                "team1": "Rebels",
+                "score": "13:10",
+                "team2": "Cloud9"
+            },
+            {
+                "date": "28/01/2024",
+                "team1": "Rebels",
+                "score": "1:2",
+                "team2": "9 Pandas"
+            },
+            {
+                "date": "23/01/2024",
+                "team1": "Rebels",
+                "score": "4:13",
+                "team2": "Viperio"
+            },
+            {
+                "date": "23/01/2024",
+                "team1": "Rebels",
+                "score": "8:13",
+                "team2": "PERA"
+            },
+            {
+                "date": "22/01/2024",
+                "team1": "Rebels",
+                "score": "7:13",
+                "team2": "Sampi"
+            },
+            {
+                "date": "22/01/2024",
+                "team1": "Rebels",
+                "score": "13:5",
+                "team2": "ALTERNATE aTTaX"
+            },
+            {
+                "date": "22/01/2024",
+                "team1": "Rebels",
+                "score": "9:13",
+                "team2": "Guild Eagles"
+            },
+            {
+                "date": "16/01/2024",
+                "team1": "Rebels",
+                "score": "9:13",
+                "team2": "Passion UA"
+            },
+            {
+                "date": "16/01/2024",
+                "team1": "Rebels",
+                "score": "13:9",
+                "team2": "Gucci Academy"
+            }
+        ],
+        "win_percentage": "30.8%"
+    },
+    "9 Pandas": {
+        "position": "#26",
+        "points": "55 points",
+        "players": {
+            "seized": {
+                "Rating": "0.95",
+                "Kills Per Round": "0.60",
+                "Headshots": "52.8%",
+                "Maps Played": "59",
+                "Deaths Per Round": "0.69",
+                "Rounds Contributed": "69.5%"
+            },
+            "clax": {
+                "Rating": "1.08",
+                "Kills Per Round": "0.67",
+                "Headshots": "55.8%",
+                "Maps Played": "59",
+                "Deaths Per Round": "0.62",
+                "Rounds Contributed": "73.1%"
+            },
+            "iDISBALANCE": {
+                "Rating": "1.10",
+                "Kills Per Round": "0.68",
+                "Headshots": "26.4%",
+                "Maps Played": "59",
+                "Deaths Per Round": "0.60",
+                "Rounds Contributed": "74.6%"
+            },
+            "glowiing": {
+                "Rating": "1.05",
+                "Kills Per Round": "0.65",
+                "Headshots": "53.6%",
+                "Maps Played": "59",
+                "Deaths Per Round": "0.66",
+                "Rounds Contributed": "72.4%"
+            },
+            "d1Ledez": {
+                "Rating": "1.12",
+                "Kills Per Round": "0.70",
+                "Headshots": "63.3%",
+                "Maps Played": "59",
+                "Deaths Per Round": "0.70",
+                "Rounds Contributed": "72.6%"
+            }
+        },
+        "matches": [
+            {
+                "date": "17/02/2024",
+                "team1": "9 Pandas",
+                "score": "1:2",
+                "team2": "AMKAL"
+            },
+            {
+                "date": "16/02/2024",
+                "team1": "9 Pandas",
+                "score": "2:1",
+                "team2": "3DMAX"
+            },
+            {
+                "date": "15/02/2024",
+                "team1": "9 Pandas",
+                "score": "11:13",
+                "team2": "KOI"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "9 Pandas",
+                "score": "13:1",
+                "team2": "SAW"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "9 Pandas",
+                "score": "6:13",
+                "team2": "FaZe"
+            },
+            {
+                "date": "30/01/2024",
+                "team1": "9 Pandas",
+                "score": "11:13",
+                "team2": "Nemiga"
+            },
+            {
+                "date": "28/01/2024",
+                "team1": "9 Pandas",
+                "score": "2:1",
+                "team2": "Rebels"
+            },
+            {
+                "date": "17/12/2023",
+                "team1": "9 Pandas",
+                "score": "0:2",
+                "team2": "IKLA"
+            },
+            {
+                "date": "16/12/2023",
+                "team1": "9 Pandas",
+                "score": "1:2",
+                "team2": "B8"
+            },
+            {
+                "date": "15/12/2023",
+                "team1": "9 Pandas",
+                "score": "2:1",
+                "team2": "ORKS"
+            },
+            {
+                "date": "20/01/2024",
+                "team1": "9 Pandas",
+                "score": "2:1",
+                "team2": "3DMAX"
+            },
+            {
+                "date": "20/01/2024",
+                "team1": "9 Pandas",
+                "score": "0:2",
+                "team2": "SAW"
+            },
+            {
+                "date": "19/01/2024",
+                "team1": "9 Pandas",
+                "score": "13:11",
+                "team2": "ECSTATIC"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "9 Pandas",
+                "score": "6:13",
+                "team2": "Natus Vincere"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "9 Pandas",
+                "score": "13:4",
+                "team2": "Nexus"
+            },
+            {
+                "date": "11/12/2023",
+                "team1": "9 Pandas",
+                "score": "1:2",
+                "team2": "Preasy"
+            }
+        ],
+        "win_percentage": "53.8%"
+    },
+    "Ninjas in Pyjamas": {
+        "position": "#27",
+        "points": "52 points",
+        "players": {
+            "alex": {
+                "Rating": "0.86",
+                "Kills Per Round": "0.55",
+                "Headshots": "51.3%",
+                "Maps Played": "19",
+                "Deaths Per Round": "0.72",
+                "Rounds Contributed": "69.4%"
+            },
+            "es3tag": {
+                "Rating": "0.96",
+                "Kills Per Round": "0.56",
+                "Headshots": "48.0%",
+                "Maps Played": "25",
+                "Deaths Per Round": "0.68",
+                "Rounds Contributed": "70.1%"
+            },
+            "k0nfig": {
+                "Rating": "1.02",
+                "Kills Per Round": "0.71",
+                "Headshots": "62.1%",
+                "Maps Played": "25",
+                "Deaths Per Round": "0.72",
+                "Rounds Contributed": "66.6%"
+            },
+            "REZ": {
+                "Rating": "1.07",
+                "Kills Per Round": "0.73",
+                "Headshots": "52.3%",
+                "Maps Played": "25",
+                "Deaths Per Round": "0.72",
+                "Rounds Contributed": "68.8%"
+            },
+            "headtr1ck": {
+                "Rating": "0.98",
+                "Kills Per Round": "0.61",
+                "Headshots": "34.6%",
+                "Maps Played": "19",
+                "Deaths Per Round": "0.66",
+                "Rounds Contributed": "70.1%"
+            }
+        },
+        "matches": [
+            {
+                "date": "15/02/2024",
+                "team1": "Ninjas in Pyjamas",
+                "score": "0:2",
+                "team2": "SAW"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "Ninjas in Pyjamas",
+                "score": "20:22",
+                "team2": "AMKAL"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "Ninjas in Pyjamas",
+                "score": "11:13",
+                "team2": "Eternal Fire"
+            },
+            {
+                "date": "26/01/2024",
+                "team1": "Ninjas in Pyjamas",
+                "score": "0:2",
+                "team2": "G2"
+            },
+            {
+                "date": "23/01/2024",
+                "team1": "Ninjas in Pyjamas",
+                "score": "2:0",
+                "team2": "Complexity"
+            },
+            {
+                "date": "22/01/2024",
+                "team1": "Ninjas in Pyjamas",
+                "score": "0:2",
+                "team2": "G2"
+            },
+            {
+                "date": "17/01/2024",
+                "team1": "Ninjas in Pyjamas",
+                "score": "9:13",
+                "team2": "500"
+            },
+            {
+                "date": "14/01/2024",
+                "team1": "Ninjas in Pyjamas",
+                "score": "0:2",
+                "team2": "Astralis"
+            },
+            {
+                "date": "13/01/2024",
+                "team1": "Ninjas in Pyjamas",
+                "score": "2:0",
+                "team2": "Lilmix"
+            },
+            {
+                "date": "03/12/2023",
+                "team1": "Ninjas in Pyjamas",
+                "score": "2:1",
+                "team2": "Alliance"
+            },
+            {
+                "date": "02/12/2023",
+                "team1": "Ninjas in Pyjamas",
+                "score": "1:2",
+                "team2": "GODSENT"
+            },
+            {
+                "date": "23/11/2023",
+                "team1": "Ninjas in Pyjamas",
+                "score": "0:2",
+                "team2": "Natus Vincere"
+            },
+            {
+                "date": "22/11/2023",
+                "team1": "Ninjas in Pyjamas",
+                "score": "0:2",
+                "team2": "FaZe"
+            },
+            {
+                "date": "11/11/2023",
+                "team1": "Ninjas in Pyjamas",
+                "score": "1:2",
+                "team2": "ENCE"
+            },
+            {
+                "date": "09/11/2023",
+                "team1": "Ninjas in Pyjamas",
+                "score": "2:0",
+                "team2": "Wings Up"
+            },
+            {
+                "date": "09/11/2023",
+                "team1": "Ninjas in Pyjamas",
+                "score": "25:28",
+                "team2": "FaZe"
+            }
+        ],
+        "win_percentage": "23.1%"
+    },
+    "Preasy": {
+        "position": "#28",
+        "points": "41 points",
+        "players": {
+            "dupreeh": {
+                "Rating": "1.07",
+                "Kills Per Round": "0.72",
+                "Headshots": "56.5%",
+                "Maps Played": "47",
+                "Deaths Per Round": "0.71",
+                "Rounds Contributed": "70.2%"
+            },
+            "refrezh": {
+                "Rating": "1.12",
+                "Kills Per Round": "0.72",
+                "Headshots": "51.9%",
+                "Maps Played": "73",
+                "Deaths Per Round": "0.65",
+                "Rounds Contributed": "75.0%"
+            },
+            "TMB": {
+                "Rating": "0.98",
+                "Kills Per Round": "0.60",
+                "Headshots": "52.2%",
+                "Maps Played": "73",
+                "Deaths Per Round": "0.69",
+                "Rounds Contributed": "71.3%"
+            },
+            "roeJ": {
+                "Rating": "1.11",
+                "Kills Per Round": "0.69",
+                "Headshots": "57.2%",
+                "Maps Played": "73",
+                "Deaths Per Round": "0.66",
+                "Rounds Contributed": "73.3%"
+            },
+            "Altekz": {
+                "Rating": "1.06",
+                "Kills Per Round": "0.67",
+                "Headshots": "52.0%",
+                "Maps Played": "73",
+                "Deaths Per Round": "0.65",
+                "Rounds Contributed": "71.7%"
+            }
+        },
+        "matches": [
+            {
+                "date": "15:00",
+                "team1": "Preasy",
+                "score": "-:-",
+                "team2": "Heroic"
+            },
+            {
+                "date": "09/02/2024",
+                "team1": "Preasy",
+                "score": "3:2",
+                "team2": "ECSTATIC"
+            },
+            {
+                "date": "08/02/2024",
+                "team1": "Preasy",
+                "score": "2:1",
+                "team2": "TSM"
+            },
+            {
+                "date": "07/02/2024",
+                "team1": "Preasy",
+                "score": "2:0",
+                "team2": "Into the Breach"
+            },
+            {
+                "date": "06/02/2024",
+                "team1": "Preasy",
+                "score": "2:0",
+                "team2": "Sangal"
+            },
+            {
+                "date": "05/02/2024",
+                "team1": "Preasy",
+                "score": "1:2",
+                "team2": "ECSTATIC"
+            },
+            {
+                "date": "02/02/2024",
+                "team1": "Preasy",
+                "score": "2:1",
+                "team2": "SINNERS"
+            },
+            {
+                "date": "31/01/2024",
+                "team1": "Preasy",
+                "score": "2:0",
+                "team2": "Sprout"
+            },
+            {
+                "date": "30/01/2024",
+                "team1": "Preasy",
+                "score": "2:0",
+                "team2": "Entropiq"
+            },
+            {
+                "date": "26/01/2024",
+                "team1": "Preasy",
+                "score": "0:2",
+                "team2": "Sprout"
+            },
+            {
+                "date": "02/02/2024",
+                "team1": "Preasy",
+                "score": "14:16",
+                "team2": "Metizport"
+            },
+            {
+                "date": "21/01/2024",
+                "team1": "Preasy",
+                "score": "2:1",
+                "team2": "3DMAX"
+            },
+            {
+                "date": "20/01/2024",
+                "team1": "Preasy",
+                "score": "1:2",
+                "team2": "MOUZ"
+            },
+            {
+                "date": "20/01/2024",
+                "team1": "Preasy",
+                "score": "2:1",
+                "team2": "FORZE"
+            },
+            {
+                "date": "19/01/2024",
+                "team1": "Preasy",
+                "score": "14:16",
+                "team2": "Spirit"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "Preasy",
+                "score": "6:13",
+                "team2": "Astralis"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "Preasy",
+                "score": "13:11",
+                "team2": "Entropiq"
+            }
+        ],
+        "win_percentage": "70.0%"
+    },
+    "SAW": {
+        "position": "#29",
+        "points": "41 points",
+        "players": {
+            "MUTiRiS": {
+                "Rating": "1.11",
+                "Kills Per Round": "0.65",
+                "Headshots": "48.0%",
+                "Maps Played": "48",
+                "Deaths Per Round": "0.62",
+                "Rounds Contributed": "74.0%"
+            },
+            "roman": {
+                "Rating": "0.98",
+                "Kills Per Round": "0.59",
+                "Headshots": "56.3%",
+                "Maps Played": "48",
+                "Deaths Per Round": "0.65",
+                "Rounds Contributed": "70.3%"
+            },
+            "story": {
+                "Rating": "1.18",
+                "Kills Per Round": "0.72",
+                "Headshots": "36.7%",
+                "Maps Played": "48",
+                "Deaths Per Round": "0.59",
+                "Rounds Contributed": "73.9%"
+            },
+            "ewjerkz": {
+                "Rating": "1.24",
+                "Kills Per Round": "0.78",
+                "Headshots": "54.7%",
+                "Maps Played": "48",
+                "Deaths Per Round": "0.64",
+                "Rounds Contributed": "74.6%"
+            },
+            "arrozdoce": {
+                "Rating": "1.13",
+                "Kills Per Round": "0.68",
+                "Headshots": "55.1%",
+                "Maps Played": "48",
+                "Deaths Per Round": "0.62",
+                "Rounds Contributed": "74.5%"
+            }
+        },
+        "matches": [
+            {
+                "date": "17/02/2024",
+                "team1": "SAW",
+                "score": "2:0",
+                "team2": "fnatic"
+            },
+            {
+                "date": "16/02/2024",
+                "team1": "SAW",
+                "score": "2:0",
+                "team2": "Enterprise"
+            },
+            {
+                "date": "15/02/2024",
+                "team1": "SAW",
+                "score": "2:0",
+                "team2": "Ninjas in Pyjamas"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "SAW",
+                "score": "1:13",
+                "team2": "9 Pandas"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "SAW",
+                "score": "6:13",
+                "team2": "Virtus.pro"
+            },
+            {
+                "date": "04/02/2024",
+                "team1": "SAW",
+                "score": "2:0",
+                "team2": "Rhyno"
+            },
+            {
+                "date": "03/02/2024",
+                "team1": "SAW",
+                "score": "2:1",
+                "team2": "KOI"
+            },
+            {
+                "date": "01/02/2024",
+                "team1": "SAW",
+                "score": "13:6",
+                "team2": "AL QATRAO"
+            },
+            {
+                "date": "01/02/2024",
+                "team1": "SAW",
+                "score": "13:7",
+                "team2": "Agency"
+            },
+            {
+                "date": "01/02/2024",
+                "team1": "SAW",
+                "score": "14:16",
+                "team2": "AL QATRAO"
+            },
+            {
+                "date": "20/01/2024",
+                "team1": "SAW",
+                "score": "2:0",
+                "team2": "9 Pandas"
+            },
+            {
+                "date": "19/01/2024",
+                "team1": "SAW",
+                "score": "13:11",
+                "team2": "Zero Tenacity"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "SAW",
+                "score": "8:13",
+                "team2": "Virtus.pro"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "SAW",
+                "score": "16:13",
+                "team2": "fnatic"
+            },
+            {
+                "date": "11/12/2023",
+                "team1": "SAW",
+                "score": "1:2",
+                "team2": "FORZE"
+            },
+            {
+                "date": "06/12/2023",
+                "team1": "SAW",
+                "score": "1:2",
+                "team2": "9 Pandas"
+            }
+        ],
+        "win_percentage": "72.0%"
+    },
+    "3DMAX": {
+        "position": "#30",
+        "points": "38 points",
+        "players": {
+            "hAdji": {
+                "Rating": "1.07",
+                "Kills Per Round": "0.66",
+                "Headshots": "55.4%",
+                "Maps Played": "38",
+                "Deaths Per Round": "0.66",
+                "Rounds Contributed": "74.4%"
+            },
+            "Maka": {
+                "Rating": "1.09",
+                "Kills Per Round": "0.69",
+                "Headshots": "35.8%",
+                "Maps Played": "38",
+                "Deaths Per Round": "0.59",
+                "Rounds Contributed": "72.4%"
+            },
+            "Lucky": {
+                "Rating": "1.07",
+                "Kills Per Round": "0.64",
+                "Headshots": "42.4%",
+                "Maps Played": "38",
+                "Deaths Per Round": "0.64",
+                "Rounds Contributed": "73.1%"
+            },
+            "Djoko": {
+                "Rating": "1.07",
+                "Kills Per Round": "0.67",
+                "Headshots": "65.2%",
+                "Maps Played": "38",
+                "Deaths Per Round": "0.71",
+                "Rounds Contributed": "73.8%"
+            },
+            "Ex3rcice": {
+                "Rating": "1.03",
+                "Kills Per Round": "0.67",
+                "Headshots": "56.6%",
+                "Maps Played": "38",
+                "Deaths Per Round": "0.66",
+                "Rounds Contributed": "71.9%"
+            }
+        },
+        "matches": [
+            {
+                "date": "16/02/2024",
+                "team1": "3DMAX",
+                "score": "1:2",
+                "team2": "9 Pandas"
+            },
+            {
+                "date": "15/02/2024",
+                "team1": "3DMAX",
+                "score": "2:1",
+                "team2": "Into the Breach"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "3DMAX",
+                "score": "8:13",
+                "team2": "KOI"
+            },
+            {
+                "date": "14/02/2024",
+                "team1": "3DMAX",
+                "score": "8:13",
+                "team2": "Falcons"
+            },
+            {
+                "date": "11/02/2024",
+                "team1": "3DMAX",
+                "score": "0:2",
+                "team2": "Apeks"
+            },
+            {
+                "date": "09/02/2024",
+                "team1": "3DMAX",
+                "score": "13:9",
+                "team2": "fnatic"
+            },
+            {
+                "date": "09/02/2024",
+                "team1": "3DMAX",
+                "score": "13:11",
+                "team2": "Endpoint"
+            },
+            {
+                "date": "09/02/2024",
+                "team1": "3DMAX",
+                "score": "10:13",
+                "team2": "Sprout"
+            },
+            {
+                "date": "30/01/2024",
+                "team1": "3DMAX",
+                "score": "7:13",
+                "team2": "Permitta"
+            },
+            {
+                "date": "21/01/2024",
+                "team1": "3DMAX",
+                "score": "2:0",
+                "team2": "sYnck"
+            },
+            {
+                "date": "21/01/2024",
+                "team1": "3DMAX",
+                "score": "1:2",
+                "team2": "Preasy"
+            },
+            {
+                "date": "20/01/2024",
+                "team1": "3DMAX",
+                "score": "1:2",
+                "team2": "9 Pandas"
+            },
+            {
+                "date": "20/01/2024",
+                "team1": "3DMAX",
+                "score": "2:0",
+                "team2": "Zero Tenacity"
+            },
+            {
+                "date": "19/01/2024",
+                "team1": "3DMAX",
+                "score": "6:13",
+                "team2": "OG"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "3DMAX",
+                "score": "10:13",
+                "team2": "Cloud9"
+            },
+            {
+                "date": "18/01/2024",
+                "team1": "3DMAX",
+                "score": "13:7",
+                "team2": "JANO"
+            }
+        ],
+        "win_percentage": "42.9%"
+    }
+}
