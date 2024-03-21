@@ -8,7 +8,7 @@ df = pd.read_csv('matches_data.csv')  # Adjust the file name as necessary
 
 # Drop columns that won't be used as features
 X = df.drop(columns=['Date', 'Team1', 'Team2', 'Score'])
-
+print(X.head())
 # Define the target variable
 y = df['Score']
 
